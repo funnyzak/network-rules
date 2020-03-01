@@ -1,2 +1,3 @@
 # network-rules
-Rules And Scripts For Surge 、 Quantumult X 
+Rules and Scripts For Surge 、 Quantumult X 
+
