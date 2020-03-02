@@ -1,5 +1,5 @@
 // 执行DIRECT操作
 
-// Spotify CDN
+// Spotify CDN 不需要代理
 DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN-SUFFIX,scdn.co

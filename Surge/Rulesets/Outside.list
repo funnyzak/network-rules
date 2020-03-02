@@ -1,4 +1,4 @@
-## 抗 DNS 污染
+## 抗 DNS 污染 PROXY
 DOMAIN-KEYWORD,amazon,force-remote-dns
 DOMAIN-KEYWORD,google,force-remote-dns
 DOMAIN-KEYWORD,gmail,force-remote-dns

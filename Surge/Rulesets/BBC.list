@@ -1,4 +1,5 @@
-# BBC
+# PROXY
+
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,co.uk
