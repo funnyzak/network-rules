@@ -3,9 +3,9 @@
 
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN,youtubei.googleapis.com
+DOMAIN-SUFFIX,googlevideo.com,force-remote-dns
+DOMAIN-SUFFIX,youtube.com,force-remote-dns
+DOMAIN,youtubei.googleapis.com,force-remote-dns
 
 # YT-Music, An unofficial but fancy client of YouTube Music for Mac
 PROCESS-NAME,YT Music

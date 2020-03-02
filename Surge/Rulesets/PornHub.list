@@ -1,1 +1,4 @@
+# > Pornhub
 DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,pornhub.com,force-remote-dns
+DOMAIN-SUFFIX,pornhubpremium.com,force-remote-dns
