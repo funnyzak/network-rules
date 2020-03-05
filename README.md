@@ -1,13 +1,13 @@
 # network-rules
 Rules and Scripts For Surge 、 QuantumultX 
 
-Mirror Host：https://rules.now.sh/
+Mirror Host：https://rules.yycc.dev/
 
 
 ----
 ## Tools
 
 ### Subcription Converter
-Online Config：https://subconverter.now.sh/
+Online Config：https://subconverter.yycc.dev/
 
 Base On: https://github.com/tindy2013/subconverter
