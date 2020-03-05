@@ -173,7 +173,10 @@ DOMAIN-SUFFIX,gg1028.com
 DOMAIN-SUFFIX,glispa.com
 DOMAIN-SUFFIX,go-mpulse
 DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,googleadservices.com
+
+// google地址转向服务
+// DOMAIN-SUFFIX,googleadservices.com
+
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
