@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,mzstatic.com
+// 去掉，否则会有证书问题
+// DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,api.smoot.apple.cn
 PROCESS-NAME,trustd
