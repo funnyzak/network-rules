@@ -636,3 +636,5 @@ DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,xfinity.com
 DOMAIN-SUFFIX,zattoo.com
 USER-AGENT,Roam*
+
+DOMAIN,updates.insomnia.rest

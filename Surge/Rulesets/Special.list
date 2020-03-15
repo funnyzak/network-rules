@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN-SUFFIX,scdn.co
 
 DOMAIN-SUFFIX,cloudfront.net
+
+DOMAIN-SUFFIX,amazonaws.com
