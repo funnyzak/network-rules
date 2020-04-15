@@ -323,6 +323,7 @@ DOMAIN-KEYWORD,pinterest,force-remote-dns
 DOMAIN-KEYWORD,porn,force-remote-dns
 DOMAIN-KEYWORD,wikileaks,force-remote-dns
 ## 常见国外域名列表
+DOMAIN-SUFFIX,hub.docker.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,abpchina.org
