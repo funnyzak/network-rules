@@ -328,7 +328,6 @@ DOMAIN,dl-cdn.alpinelinux.org
 DOMAIN,developer.vuforia.com
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,id.docker.com
-PROCESS-NAME,PhDDNS.app,DIRECT
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,deepl.com
