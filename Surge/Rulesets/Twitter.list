@@ -1,0 +1,10 @@
+# PROXY
+
+DOMAIN-SUFFIX,pscp.tv,force-remote-dns
+DOMAIN-SUFFIX,periscope.tv,force-remote-dns
+DOMAIN-SUFFIX,t.co,force-remote-dns
+DOMAIN-SUFFIX,twimg.co,force-remote-dns
+DOMAIN-SUFFIX,twimg.com,force-remote-dns
+DOMAIN-SUFFIX,twitpic.com,force-remote-dns
+DOMAIN-SUFFIX,vine.co,force-remote-dns
+DOMAIN-KEYWORD,twitter,force-remote-dns

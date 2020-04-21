@@ -1,0 +1,4 @@
+# Spotify
+USER-AGENT,*Spotify*
+DOMAIN-KEYWORD,spotify
+DOMAIN-SUFFIX,spoti.fi
