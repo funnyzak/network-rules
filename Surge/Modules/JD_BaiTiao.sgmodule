@@ -1,0 +1,9 @@
+#!name=JD BaiTiao
+#!desc=Jingdong BaiTiao Check-In.
+#!system=ios
+
+[MITM]
+hostname = %APPEND% api.m.jd.com
+
+[Script]
+JD_BaiTiao.js = type=cron,cronexp=14 12 * * *,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/jd/JD_BaiTiao.js,script-update-interval=0
