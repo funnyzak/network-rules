@@ -6,4 +6,4 @@
 hostname = %APPEND% api.m.jd.com
 
 [Script]
-JD_BaiTiao.js = type=cron,cronexp=17 12 * * *,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/jd/JD_BaiTiao.js,script-update-interval=0
+JD_BaiTiao.js = type=cron,cronexp=0 9 * * *,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/jd/JD_BaiTiao.js,script-update-interval=0
