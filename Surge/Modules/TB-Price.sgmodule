@@ -1,3 +1,10 @@
 #!name=TaoBao Price
 #!desc=Price History of TaoBao Mall.
 #!system=ios
+
+[MITM]
+hostname = %APPEND% trade-acs.m.taobao.com
+
+[Script]
+tb_price.js = requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js,type=http-response,pattern=^https?://amdc\.m\.taobao\.com/amdc/mobileDispatch
+tb_price.js = requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js,type=http-response,pattern=^https://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail
