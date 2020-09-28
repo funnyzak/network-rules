@@ -1,0 +1,9 @@
+#!name=Zhihu_Desktop
+#!desc=浏览器访问知乎电脑版 更新日期：2020.5.6 15：:4
+#!system=ios
+
+[Header Rewrite]
+^https?://www.zhihu.com/question/ header-replace User-Agent Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.120 Safari/537.36
+
+[MITM]
+hostname = www.zhihu.com
