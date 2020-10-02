@@ -1,0 +1,5 @@
+#!name=AdGuard DNS
+#!desc=AdGuard DNS,过滤广告
+
+[General]
+dns-server = 94.140.14.14, 94.140.14.15, system
