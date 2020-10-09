@@ -328,7 +328,18 @@ DOMAIN-KEYWORD,jav,force-remote-dns
 DOMAIN-KEYWORD,pinterest,force-remote-dns
 DOMAIN-KEYWORD,porn,force-remote-dns
 DOMAIN-KEYWORD,wikileaks,force-remote-dns
+
 ## 常见国外域名列表
+
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,send.firefox.com
+DOMAIN-SUFFIX,500px.com
+DOMAIN-SUFFIX,limbopro.xyz
+DOMAIN-SUFFIX,genius.com
+DOMAIN-KEYWORD,tiktok
+DOMAIN-SUFFIX,lvv2.com
+
 
 DOMAIN,dl-cdn.alpinelinux.org
 DOMAIN,developer.vuforia.com

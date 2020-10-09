@@ -7,3 +7,9 @@ DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,cloudfront.net
 
 DOMAIN-SUFFIX,amazonaws.com
+
+// Docker 下载
+DOMAIN,download.docker.com
+
+
+DOMAIN-SUFFIX,download.unity3d.com
