@@ -1,0 +1,9 @@
+#!name=JD BaiTiao Raise
+#!desc=Jingdong BaiTiao Raise.
+#!system=ios
+
+[MITM]
+hostname = %APPEND% *.jr.jd.com
+
+[Script]
+JD_BaiTiaoRaise.js = type=cron,cronexp=0 9 * * *,script-path=https://raw.githubusercontent.com/funnyzak/network-rules/master/Scripts/jd/JD_BaiTiaoRaise.js,script-update-interval=0
