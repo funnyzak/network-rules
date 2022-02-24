@@ -21,6 +21,18 @@ DOMAIN-SUFFIX,account.jetbrains.com
 DOMAIN-SUFFIX,socialblade.com
 DOMAIN-SUFFIX,forms.gle
 
+
+
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,reactnative.dev
+DOMAIN-SUFFIX,pub.dev
+DOMAIN-SUFFIX,atl-paas.net
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,hetapus.com
+DOMAIN-SUFFIX,netflav.com 
+DOMAIN-SUFFIX,vercel.com
+
 DOMAIN-SUFFIX,sublimetext.com
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,producthunt.com
