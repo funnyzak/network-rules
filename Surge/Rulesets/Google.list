@@ -1,5 +1,6 @@
 # PROXY
 
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
