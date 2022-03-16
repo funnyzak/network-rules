@@ -23,6 +23,13 @@ DOMAIN-SUFFIX,forms.gle
 
 DOMAIN-SUFFIX,discord.com
 
+DOMAIN-SUFFIX,yycc.dev
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,500px.com
+DOMAIN-SUFFIX,reactnative.dev
+DOMAIN-SUFFIX,pub.dev
+DOMAIN-SUFFIX,vercel.com
+
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,reactnative.dev
