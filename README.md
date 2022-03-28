@@ -18,6 +18,7 @@ Base On: https://github.com/tindy2013/subconverter
 
 ## Reference
 
+* [SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
 * [NoByDay](https://github.com/NobyDa/Script)
 * [chavyleung](https://github.com/chavyleung/scripts)
 * [lhie1](https://github.com/lhie1/Rules/tree/master)
