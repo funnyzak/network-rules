@@ -24,3 +24,4 @@ Base On: https://github.com/tindy2013/subconverter
 * [SS Rule Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
 * [GeQ1an](https://github.com/GeQ1an/Rules/tree/master)
 * [surgio](https://github.com/geekdada/surgio)
+* [clash-rules](https://github.com/Loyalsoldier/clash-rules)
