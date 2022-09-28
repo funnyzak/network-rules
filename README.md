@@ -10,8 +10,6 @@ Mirror Host：https://rules.yycc.dev
 
 ### Subcription Converter
 
-Online Config：https://sub.yycc.dev
-
 Base On: https://github.com/tindy2013/subconverter
 
 ---
