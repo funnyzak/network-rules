@@ -1,4 +1,12 @@
 # (D.C.S.G?)
+# discord
+DOMAIN-SUFFIX,discord.com,PROXY
+DOMAIN-SUFFIX,discordapp.com,PROXY
+DOMAIN-SUFFIX,discord.gg,PROXY
+DOMAIN-SUFFIX,discord.io,PROXY
+DOMAIN-SUFFIX,discord.me,PROXY
+DOMAIN-SUFFIX,discord.net,PROXY
+
 DOMAIN-SUFFIX,9cache.com,PROXY
 DOMAIN-SUFFIX,9gag.com,PROXY
 DOMAIN-SUFFIX,abc.com,PROXY
