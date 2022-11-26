@@ -17,3 +17,4 @@ Mirror Host：https://rules.vercel.app
 * [surgio](https://github.com/geekdada/surgio)
 * [clash-rules](https://github.com/Loyalsoldier/clash-rules)
 * [Stash-Wiki](https://stash.wiki/)
+* [DivineEngine](https://github.com/DivineEngine/Profiles/tree/master)
