@@ -1,9 +1,8 @@
-# network-rules
+# Network-Rules
 
-Rules and Scripts For Surge 、 QuantumultX、Stash
+Rules and Scripts For Surge 、 QuantumultX 、Clash、Loon、Stash.
 
-Mirror Host：https://rules.vercel.app
-
+**Mirror**: [https://rules.vercel.app](https://rules.vercel.app) 
 ---
 
 ## Reference
