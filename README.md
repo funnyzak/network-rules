@@ -19,3 +19,5 @@ Rules and Scripts For Surge 、 QuantumultX 、Clash、Loon、Stash.
 - [Stash-Wiki](https://stash.wiki/)
 - [DivineEngine](https://github.com/DivineEngine/Profiles/tree/master)
 - [Quantumult-X](https://github.com/crossutility/Quantumult-X)
+- [Peng-YM/QuanX](https://github.com/Peng-YM/QuanX)
+- [TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock)

@@ -1,7 +1,3 @@
-# > TikTok
-
-
-
 # TikTok
 HOST,p16-tiktokcdn-com.akamaized.net,TikTok
 HOST-SUFFIX,byteoversea.com,TikTok
@@ -21,4 +17,3 @@ HOST-KEYWORD,musical.ly,TikTok
 HOST-KEYWORD,tiktok,TikTok
 HOST-KEYWORD,tiktokv,TikTok
 USER-AGENT,TikTok*,TikTok
-DOMAIN-KEYWORD,tiktokcdn-,TikTok
