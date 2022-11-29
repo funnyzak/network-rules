@@ -25,3 +25,4 @@ Rules and Scripts For Surge 、 QuantumultX 、Clash、Loon、Stash.
 - [Quantumult-X Book](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#47a119aee35f496082cb3d11b6e34275)
 - [Peng-YM/QuanX](https://github.com/Peng-YM/QuanX)
 - [TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock)
+- [Qure](https://github.com/Koolson/Qure)
