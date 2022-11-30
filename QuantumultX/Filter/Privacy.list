@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,pub.dev,PROXY
 
 # Spotify CDN 不需要代理
 DOMAIN-SUFFIX,spotifycdn.net,DIRECT
-DOMAIN-SUFFIX,scdn.co,DI
+DOMAIN-SUFFIX,scdn.co,DIRECT
 
 # Docker 下载
 DOMAIN,download.docker.com,DIRECT
