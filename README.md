@@ -12,6 +12,7 @@ Rules and Scripts For Surge 、 QuantumultX 、Clash、Loon、Stash.
 ## Reference
 
 - [SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
+- [Clash-Pro](https://github.com/Semporia/ClashX-Pro)
 - [NoByDay](https://github.com/NobyDa/Script)
 - [chavyleung](https://github.com/chavyleung/scripts)
 - [lhie1](https://github.com/lhie1/Rules/tree/master)
