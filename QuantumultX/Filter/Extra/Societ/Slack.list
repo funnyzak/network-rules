@@ -1,5 +1,3 @@
-[Rule]
-
 ## iOS
 USER-AGENT,Slack*,Proxy
 
