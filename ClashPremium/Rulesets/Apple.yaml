@@ -1,13 +1,13 @@
 payload:
   # 如无特殊需求可不用加此策略及选择代理，在大部分地区 Apple CDN 可正常工作，使用代理后可能导致「Cannot Connect to iCloud」等问题
-  
+
   # > App Store
   - DOMAIN-SUFFIX,mzstatic.com
   - DOMAIN,iosapps.itunes.apple.com
   - DOMAIN,osxapps.itunes.apple.com
   - DOMAIN,apps.apple.com
   - DOMAIN,itunes.apple.com
-  
+
   # > Apple
   - DOMAIN-KEYWORD,apple
   - DOMAIN-KEYWORD,icloud
@@ -39,7 +39,7 @@ payload:
   - DOMAIN-SUFFIX,nextmgz.com
   - DOMAIN-SUFFIX,nexttv.com.tw
   - DOMAIN-SUFFIX,sharpdaily.tw
-  
+
   # > Apple Mail
   - DOMAIN-SUFFIX,mail.icloud.com.cn
   - DOMAIN-SUFFIX,mail.me.com
@@ -84,7 +84,7 @@ payload:
   - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,digicert.com
   - PROCESS-NAME,lookupviewservice
-  
+
   # > Apple TV
   - DOMAIN,hls-amt.itunes.apple.com
   - DOMAIN,hls.itunes.apple.com
@@ -100,8 +100,8 @@ payload:
   - DOMAIN-SUFFIX,ssl.ls.apple.com
   - DOMAIN,gs-loc-cn.apple.com
   - PROCESS-NAME,com.apple.geod
-  
-# > iCloud Private Relay
+
+  # > iCloud Private Relay
   # https://developer.apple.com/cn/support/prepare-your-network-for-icloud-private-relay/
   # https://mask-api.icloud.com/egress-ip-ranges.csv
   - DOMAIN,mask-api.icloud.com
@@ -110,7 +110,7 @@ payload:
   - DOMAIN,mask.apple-dns.net
   - DOMAIN,mask-h2.icloud.com
   - DOMAIN,mask-t.apple-dns.net
-  
+
   # > Update
   - DOMAIN,supportdownload.apple.com
   - DOMAIN,appldnld.apple.com
@@ -118,7 +118,7 @@ payload:
   - DOMAIN,apptrailers.itunes.apple.com
   - DOMAIN,updates-http.cdn-apple.com
 
-# NAME: iCloud
+  # NAME: iCloud
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-icloud.cn
   - DOMAIN-SUFFIX,apple-livephotoskit.com
@@ -178,7 +178,7 @@ payload:
   - DOMAIN-SUFFIX,wwwicloud.com
   - DOMAIN-KEYWORD,icloud.com.akadns.net
 
-# NAME: iCloudPrivateRelay
+  # NAME: iCloudPrivateRelay
   - DOMAIN,mask-api.fe.apple-dns.net
   - DOMAIN,mask-api.icloud.com
   - DOMAIN,mask-h2.icloud.com

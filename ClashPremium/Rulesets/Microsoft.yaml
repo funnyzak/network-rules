@@ -424,13 +424,13 @@ payload:
   - PROCESS-NAME,onedrive
   - PROCESS-NAME,onedriveupdater
 
-# NAME: Mail
+  # NAME: Mail
   - DOMAIN,imap-mail.outlook.com
   - DOMAIN,outlook.office365.com
   - DOMAIN,smtp-mail.outlook.com
   - DOMAIN,smtp.office365.com
 
-# NAME: OneDrive
+  # NAME: OneDrive
   - DOMAIN-SUFFIX,livefilestore.com
   - DOMAIN-SUFFIX,oneclient.sfx.ms
   - DOMAIN-SUFFIX,photos.live.com

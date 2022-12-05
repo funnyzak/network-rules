@@ -1,10 +1,10 @@
-payload: 
+payload:
   # Proxy
 
   # (DNS Cache Pollution Protection)
 
   - DOMAIN-KEYWORD,blogspot,Proxy
-  
+
   # > Line
   - DOMAIN-SUFFIX,line.me,Proxy
   - DOMAIN-SUFFIX,line-apps.com,Proxy

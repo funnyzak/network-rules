@@ -1,5 +1,3 @@
-
-
 USER-AGENT,AppStore*
 USER-AGENT,com.apple.appstored*
 USER-AGENT,TestFlight*
