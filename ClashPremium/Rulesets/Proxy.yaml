@@ -5,6 +5,8 @@ payload:
 
   - DOMAIN-KEYWORD,blogspot,Proxy
 
+  - DOMAIN-KEYWORD,openai,Proxy
+
   # > Line
   - DOMAIN-SUFFIX,line.me,Proxy
   - DOMAIN-SUFFIX,line-apps.com,Proxy
