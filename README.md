@@ -11,6 +11,8 @@ Rules and Scripts For Surge 、 QuantumultX 、Clash、Loon、Stash.
 
 ## Reference
 
+- [yichengchen/clashX](https://github.com/yichengchen/clashX)
+- [Clash-Wiki](https://github.com/Dreamacro/clash/wiki)
 - [SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
 - [Clash-Pro](https://github.com/Semporia/ClashX-Pro)
 - [NoByDay](https://github.com/NobyDa/Script)
@@ -19,7 +21,6 @@ Rules and Scripts For Surge 、 QuantumultX 、Clash、Loon、Stash.
 - [SS Rule Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
 - [GeQ1an](https://github.com/GeQ1an/Rules/tree/master)
 - [surgio](https://github.com/geekdada/surgio)
-- [clash-rules](https://github.com/Loyalsoldier/clash-rules)
 - [Stash-Wiki](https://stash.wiki/)
 - [DivineEngine](https://github.com/DivineEngine/Profiles/tree/master)
 - [Quantumult-X](https://github.com/crossutility/Quantumult-X)
@@ -27,3 +28,5 @@ Rules and Scripts For Surge 、 QuantumultX 、Clash、Loon、Stash.
 - [Peng-YM/QuanX](https://github.com/Peng-YM/QuanX)
 - [TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock)
 - [Qure](https://github.com/Koolson/Qure)
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
+- [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
