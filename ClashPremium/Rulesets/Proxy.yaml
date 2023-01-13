@@ -5,7 +5,14 @@ payload:
 
   - DOMAIN-KEYWORD,blogspot,Proxy
 
-  - DOMAIN-KEYWORD,openai,Proxy
+  - DOMAIN-KEYWORD,maying,Proxy
+  - DOMAIN-KEYWORD,agentneo.,Proxy
+  - DOMAIN-KEYWORD,duolingo,Proxy
+  - DOMAIN-KEYWORD,v2ex,Proxy
+  - DOMAIN-SUFFIX,vitejs.dev,Proxy
+  - DOMAIN-SUFFIX,vercel.app,Proxy
+
+  - DOMAIN-SUFFIX,wps.com,Proxy
 
   # > Line
   - DOMAIN-SUFFIX,line.me,Proxy
