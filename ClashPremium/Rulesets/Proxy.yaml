@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,wps.com,Proxy
 
   - DOMAIN-SUFFIX,ahhhhfs.com,Proxy
+  - DOMAIN-SUFFIX,jsfiddle.net,Proxy
 
   # brew
   - DOMAIN-SUFFIX,ghcr.io,Proxy
