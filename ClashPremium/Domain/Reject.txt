@@ -25218,7 +25218,6 @@ payload:
   - '+.jpmpuxglivupwy.com'
   - '+.jpqgxy.com'
   - '+.jpqiiqgydipb.com'
-  - '+.jpush.cn'
   - '+.jpyjdpal.xyz'
   - '+.jpzwomhbxoalxu.com'
   - '+.jqad.vip'

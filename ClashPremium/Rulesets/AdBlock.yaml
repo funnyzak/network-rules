@@ -4023,10 +4023,8 @@ payload:
   - DOMAIN-SUFFIX,iisl7wpf.me,AdBlock
   - DOMAIN-SUFFIX,ikcode.baidu.com,AdBlock
   - DOMAIN-SUFFIX,il8r.com,AdBlock
-  - DOMAIN-SUFFIX,im.jpush.cn,AdBlock
   - DOMAIN-SUFFIX,im.ov.yahoo.co.jp,AdBlock
   - DOMAIN-SUFFIX,im1.56zzw.com,AdBlock
-  - DOMAIN-SUFFIX,im64.jpush.cn,AdBlock
   - DOMAIN-SUFFIX,ima3vpaid.appspot.com,AdBlock
   - DOMAIN-SUFFIX,imads.rediff.com,AdBlock
   - DOMAIN-SUFFIX,image.139y.com,AdBlock
@@ -4394,8 +4392,6 @@ payload:
   - DOMAIN-SUFFIX,jpg.cooguo.com,AdBlock
   - DOMAIN-SUFFIX,jpg.inte.sogoucdn.com,AdBlock
   - DOMAIN-SUFFIX,jph.itiexue.net,AdBlock
-  - DOMAIN-SUFFIX,jpush.cn,AdBlock
-  - DOMAIN-SUFFIX,jpush.html5.qq.com,AdBlock
   - DOMAIN-SUFFIX,jqmt.qq.com,AdBlock
   - DOMAIN-SUFFIX,jqz9.com,AdBlock
   - DOMAIN-SUFFIX,jrdkc.com,AdBlock
@@ -6417,7 +6413,6 @@ payload:
   - DOMAIN-SUFFIX,s.jandan.com,AdBlock
   - DOMAIN-SUFFIX,s.jimdo.com,AdBlock
   - DOMAIN-SUFFIX,s.jlminte.com,AdBlock
-  - DOMAIN-SUFFIX,s.jpush.cn,AdBlock
   - DOMAIN-SUFFIX,s.jzkelida.com,AdBlock
   - DOMAIN-SUFFIX,s.khgj.cn,AdBlock
   - DOMAIN-SUFFIX,s.l8l9.com,AdBlock
@@ -6701,7 +6696,6 @@ payload:
   - DOMAIN-SUFFIX,sinaalicdn.com,AdBlock
   - DOMAIN-SUFFIX,sinaaliyun.cn,AdBlock
   - DOMAIN-SUFFIX,siqwqjza.m.yikanxiaoshuo.net,AdBlock
-  - DOMAIN-SUFFIX,sis.jpush.io,AdBlock
   - DOMAIN-SUFFIX,sit.gentags.net,AdBlock
   - DOMAIN-SUFFIX,sit.pagechoice.net,AdBlock
   - DOMAIN-SUFFIX,site.cdnmaster.com,AdBlock
