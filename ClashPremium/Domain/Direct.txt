@@ -34184,8 +34184,6 @@ payload:
   - '+.jpsmile.com'
   - '+.jptaiyo.com'
   - '+.jpthome.com'
-  - '+.jpush.io'
-  - '+.jpushoa.com'
   - '+.jpuyy.com'
   - '+.jpwb.cc'
   - '+.jpwb.net'

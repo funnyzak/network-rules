@@ -270,7 +270,6 @@ payload:
   - DOMAIN-KEYWORD,socdm,AdBlock
   - DOMAIN-KEYWORD,supersonicads,AdBlock
   - DOMAIN-KEYWORD,taboola,AdBlock
-  - DOMAIN-KEYWORD,uedas,AdBlock
   - DOMAIN-KEYWORD,umtrack,AdBlock
   - DOMAIN-KEYWORD,uploadMobileData,AdBlock
   - DOMAIN-KEYWORD,wlmonitor,AdBlock
