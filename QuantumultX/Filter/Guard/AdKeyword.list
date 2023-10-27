@@ -19,9 +19,6 @@ host-keyword,openx,reject
 host-keyword,partnerad,reject
 host-keyword,pingfore,reject
 host-keyword,supersonicads,reject
-host-keyword,uedas,reject
-host-keyword,umeng,reject
-host-keyword,usage,reject
 host-suffix,vungle.com,reject
 host-keyword,wlmonitor,reject
 host-keyword,zjtoolbar,reject
