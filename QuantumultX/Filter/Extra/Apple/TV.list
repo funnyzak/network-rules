@@ -1,9 +1,9 @@
 # TV
-USER-AGENT,AppleTV*,PROXY
-USER-AGENT,com.apple.tv*,PROXY
-DOMAIN-SUFFIX,tv.apple.com,PROXY
-DOMAIN,hls.itunes.apple.com,PROXY
-DOMAIN,hls-amt.itunes.apple.com,PROXY
-DOMAIN,play-edge.itunes.apple.com,PROXY
-DOMAIN,tv.applemusic.com,PROXY
-DOMAIN,uts-api.itunes.apple.com,PROXY
+USER-AGENT,AppleTV*,Apple
+USER-AGENT,com.apple.tv*,Apple
+DOMAIN-SUFFIX,tv.apple.com,Apple
+DOMAIN,hls.itunes.apple.com,Apple
+DOMAIN,hls-amt.itunes.apple.com,Apple
+DOMAIN,play-edge.itunes.apple.com,Apple
+DOMAIN,tv.applemusic.com,Apple
+DOMAIN,uts-api.itunes.apple.com,Apple

@@ -1,3 +1,3 @@
 # > iCloud email
-DOMAIN-SUFFIX,mail.icloud.com.cn,iCloudMail
-DOMAIN-SUFFIX,mail.me.com,iCloudMail
+DOMAIN-SUFFIX,mail.icloud.com.cn,iCloud
+DOMAIN-SUFFIX,mail.me.com,iCloud

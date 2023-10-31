@@ -1,26 +1,26 @@
 # Software Update
 # > macOS updates
-DOMAIN,configuration.apple.com,PROXY
-DOMAIN,gnf-mdn.apple.com,PROXY
-DOMAIN,gnf-mr.apple.com,PROXY
-DOMAIN,gs.apple.com,PROXY
-DOMAIN,ig.apple.com,PROXY
-DOMAIN,skl.apple.com,PROXY
-DOMAIN,swcdn.apple.com,PROXY
-DOMAIN,swdist.apple.com,PROXY
-DOMAIN,swdownload.apple.com,PROXY
-DOMAIN,swpost.apple.com,PROXY
-DOMAIN,swscan.apple.com,PROXY
+DOMAIN,configuration.apple.com,Apple
+DOMAIN,gnf-mdn.apple.com,Apple
+DOMAIN,gnf-mr.apple.com,Apple
+DOMAIN,gs.apple.com,Apple
+DOMAIN,ig.apple.com,Apple
+DOMAIN,skl.apple.com,Apple
+DOMAIN,swcdn.apple.com,Apple
+DOMAIN,swdist.apple.com,Apple
+DOMAIN,swdownload.apple.com,Apple
+DOMAIN,swpost.apple.com,Apple
+DOMAIN,swscan.apple.com,Apple
 # > macOS Recovery
-DOMAIN,oscdn.apple.com,PROXY
-DOMAIN,osrecovery.apple.com,PROXY
+DOMAIN,oscdn.apple.com,Apple
+DOMAIN,osrecovery.apple.com,Apple
 # > iOS, iPadOS, and watchOS updates
-DOMAIN,appldnld.apple.com,PROXY
-DOMAIN,ns.itunes.apple.com,PROXY
+DOMAIN,appldnld.apple.com,Apple
+DOMAIN,ns.itunes.apple.com,Apple
 # > iOS, iPadOS, tvOS, watchOS, and macOS updates
-DOMAIN,gg.apple.com,PROXY
-DOMAIN,gdmf.apple.com,PROXY
-DOMAIN,mesu.apple.com,PROXY
-DOMAIN,updates.cdn-apple.com,PROXY
-DOMAIN,updates-http.cdn-apple.com,PROXY
-DOMAIN,xp.apple.com,PROXY
+DOMAIN,gg.apple.com,Apple
+DOMAIN,gdmf.apple.com,Apple
+DOMAIN,mesu.apple.com,Apple
+DOMAIN,updates.cdn-apple.com,Apple
+DOMAIN,updates-http.cdn-apple.com,Apple
+DOMAIN,xp.apple.com,Apple
