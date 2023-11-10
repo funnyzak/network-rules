@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,discord.io,PROXY
 DOMAIN-SUFFIX,discord.me,PROXY
 DOMAIN-SUFFIX,discord.net,PROXY
 
+DOMAIN-SUFFIX,threadreaderapp.com,PROXY
+
 DOMAIN-KEYWORD,.duolingo.,PROXY
 
 DOMAIN-SUFFIX,ahhhhfs.com,PROXY

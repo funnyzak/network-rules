@@ -13,6 +13,9 @@ payload:
   - DOMAIN-SUFFIX,vercel.app,Proxy
 
   - DOMAIN-SUFFIX,wps.com,Proxy
+  
+  - DOMAIN-SUFFIX,threadreaderapp.com,Proxy
+
 
   - DOMAIN-SUFFIX,ahhhhfs.com,Proxy
   - DOMAIN-SUFFIX,jsfiddle.net,Proxy
