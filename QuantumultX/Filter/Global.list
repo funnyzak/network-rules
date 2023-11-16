@@ -491,7 +491,6 @@ DOMAIN,books.apple.com,PROXY
 DOMAIN,itunes.apple.com,PROXY
 DOMAIN,tv.apple.com,PROXY
 # > News
-DOMAIN,gateway.icloud.com,PROXY
 DOMAIN-SUFFIX,apple.news,PROXY
 DOMAIN,news-assets.apple.com,PROXY
 DOMAIN,news-client.apple.com,PROXY
