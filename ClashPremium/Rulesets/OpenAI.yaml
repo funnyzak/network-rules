@@ -15,3 +15,4 @@ payload:
   - DOMAIN-SUFFIX,phind.com,OpenAI
   - DOMAIN-SUFFIX,open-gpt.app,OpenAI
   - DOMAIN-SUFFIX,reworkd.ai,OpenAI
+  - DOMAIN-SUFFIX,oaistatic.com,OpenAI
