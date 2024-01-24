@@ -1,5 +1,3 @@
-# PROXY
-
 DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
 DOMAIN-SUFFIX,fb.com,force-remote-dns
 DOMAIN-SUFFIX,fb.me,force-remote-dns

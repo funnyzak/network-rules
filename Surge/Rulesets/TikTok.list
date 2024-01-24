@@ -1,5 +1,3 @@
-# PROXY
-
-DOMAIN-SUFFIX,musical.ly,Proxy
-DOMAIN-SUFFIX,pstatp.com,Proxy
-DOMAIN-SUFFIX,tiktokv.com,Proxy
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,tiktokv.com
