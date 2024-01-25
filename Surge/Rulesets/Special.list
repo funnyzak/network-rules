@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,cloudfront.net
 
 DOMAIN-SUFFIX,amazonaws.com
 
+DOMAIN-SUFFIX,akamaized.net,DIRECT
+
 // Docker 下载
 DOMAIN,download.docker.com
 
