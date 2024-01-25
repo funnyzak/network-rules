@@ -1,8 +1,8 @@
 // 执行DIRECT操作
 
 // Spotify CDN 不需要代理
-DOMAIN-SUFFIX,spotifycdn.net
-DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotifycdn.net,DIRECT
+DOMAIN-SUFFIX,scdn.co,DIRECT
 DOMAIN-SUFFIX,akamaized.net,DIRECT
 
 DOMAIN-SUFFIX,cloudfront.net
