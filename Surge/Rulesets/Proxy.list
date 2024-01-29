@@ -392,14 +392,16 @@ DOMAIN-SUFFIX,lvv2.com
 
 DOMAIN,dl-cdn.alpinelinux.org
 DOMAIN,developer.vuforia.com
-DOMAIN-SUFFIX,id.docker.com
-DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,compresspng.com
 DOMAIN-SUFFIX,wallpaperaccess.com
 
 DOMAIN-SUFFIX,hub.docker.com
+DOMAIN-SUFFIX,login.docker.com
+DOMAIN-SUFFIX,id.docker.com
+DOMAIN-SUFFIX,docker.io
+
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,abpchina.org
