@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,cloudflare.com,CloudFlare
+DOMAIN-SUFFIX,workers.dev,CloudFlare
+
 IP-CIDR,173.245.48.0/20,CloudFlare,no-resolve
 IP-CIDR,103.21.244.0/22,CloudFlare,no-resolve
 IP-CIDR,103.22.200.0/22,CloudFlare,no-resolve

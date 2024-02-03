@@ -1,5 +1,11 @@
 DOMAIN-SUFFIX,okx.com,PROXY
 
+# Spark
+DOMAIN-SUFFIX,downloads.sparkmailapp.com,PROXY
+
+# Proxy Service
+DOMAIN-SUFFIX,wgetcloud.org,PROXY
+
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,files.pythonhosted.org
 DOMAIN-SUFFIX,python.org
