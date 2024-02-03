@@ -1,0 +1,6 @@
+#!name=Bob 系统翻译
+#!desc=解决「未能完成该操作。操作不被允许」或者「The operation couldn’t be completed. Operation not permitted」。
+#!system=mac
+
+[General]
+skip-proxy = %APPEND% sequoia.apple.com, seed-sequoia.siri.apple.com
