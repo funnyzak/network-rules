@@ -30,3 +30,4 @@ Rules and Scripts For Surge 、 QuantumultX 、Clash、Loon、Stash.
 - [Qure](https://github.com/Koolson/Qure)
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
+- [os_rule_scrip](https://github.com/blackmatrix7/ios_rule_script)
