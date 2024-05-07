@@ -5,6 +5,7 @@ payload:
   
   # ChatGPT
   - DOMAIN-SUFFIX,openai.com,OpenAI
+  - DOMAIN-SUFFIX,chatgpt.com,OpenAI
   - DOMAIN-SUFFIX,sentry.io,OpenAI
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,OpenAI
   - DOMAIN-SUFFIX,identrust.com,OpenAI
@@ -16,3 +17,8 @@ payload:
   - DOMAIN-SUFFIX,open-gpt.app,OpenAI
   - DOMAIN-SUFFIX,reworkd.ai,OpenAI
   - DOMAIN-SUFFIX,oaistatic.com,OpenAI
+
+  - DOMAIN-SUFFIX,coze.com
+
+  - DOMAIN-SUFFIX,dify.ai
+  - DOMAIN-SUFFIX,suno.ai
