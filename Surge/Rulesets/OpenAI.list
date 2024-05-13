@@ -2,7 +2,14 @@
 DOMAIN-SUFFIX,khroma.co
 DOMAIN-SUFFIX,copy.ai
 DOMAIN-SUFFIX,magic.link,OpenAI
-  
+
+DOMAIN-SUFFIX,popai.pro,OpenAI
+DOMAIN-SUFFIX,livekit.cloud,OpenAI
+DOMAIN-SUFFIX,pixian.ai,OpenAI
+DOMAIN-SUFFIX,huggingface.co,OpenAI
+DOMAIN,llama.meta.com,OpenAI
+DOMAIN-SUFFIX,devv.ai,OpenAI // Added for: devv.ai:443
+
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,sentry.io

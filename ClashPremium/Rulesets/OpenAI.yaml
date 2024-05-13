@@ -3,6 +3,13 @@ payload:
   - DOMAIN-SUFFIX,copy.ai,OpenAI
   - DOMAIN-SUFFIX,magic.link,OpenAI
   
+  - DOMAIN-SUFFIX,popai.pro,OpenAI
+  - DOMAIN-SUFFIX,livekit.cloud,OpenAI
+  - DOMAIN-SUFFIX,pixian.ai,OpenAI
+  - DOMAIN-SUFFIX,huggingface.co,OpenAI
+  - DOMAIN,llama.meta.com,OpenAI
+  - DOMAIN-SUFFIX,devv.ai,OpenAI
+
   # ChatGPT
   - DOMAIN-SUFFIX,openai.com,OpenAI
   - DOMAIN-SUFFIX,chatgpt.com,OpenAI
