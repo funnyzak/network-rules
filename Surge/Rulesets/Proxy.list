@@ -1,10 +1,35 @@
-DOMAIN-SUFFIX,okx.com,PROXY
-
 # Spark
 DOMAIN-SUFFIX,downloads.sparkmailapp.com,PROXY
 
+DOMAIN,cloud.cache.wpscdn.com,PROXY
+DOMAIN-SUFFIX,cloud.wpscdn.com,PROXY
+DOMAIN,website-prod.cache.wpscdn.com,PROXY
+
+DOMAIN-SUFFIX,boslife.io,PROXY
+DOMAIN-SUFFIX,maybe.co,PROXY
+
+DOMAIN-SUFFIX,sms-activate.org,PROXY
+
+DOMAIN-SUFFIX,openwrt.ai,PROXY
+
+DOMAIN-SUFFIX,hzlzh.app,PROXY
+DOMAIN-SUFFIX,ttentau.top,PROXY
+
 # Proxy Service
 DOMAIN-SUFFIX,wgetcloud.org,PROXY
+DOMAIN-SUFFIX,wgetcloud.online,PROXY
+
+DOMAIN-SUFFIX,hcaptcha.com,PROXY
+DOMAIN-SUFFIX,lookbook.nu,PROXY
+
+DOMAIN-SUFFIX,swiftybeaver.com,PROXY
+
+DOMAIN-SUFFIX,surfshark.deals,PROXY
+DOMAIN-SUFFIX,fengxing.jp,PROXY
+
+DOMAIN-SUFFIX,notion.ai,PROXY
+DOMAIN-SUFFIX,notion.com,PROXY
+DOMAIN-SUFFIX,notion.so,PROXY
 
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,files.pythonhosted.org

@@ -10,6 +10,13 @@ DOMAIN-SUFFIX,huggingface.co,OpenAI
 DOMAIN,llama.meta.com,OpenAI
 DOMAIN-SUFFIX,devv.ai,OpenAI // Added for: devv.ai:443
 
+DOMAIN-SUFFIX,lobehub.com,PROXY
+
+DOMAIN-SUFFIX,mistral.ai,SnellUS
+DOMAIN-SUFFIX,groq.com,SnellUS
+DOMAIN-SUFFIX,meta.com,PROXY
+
+
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,sentry.io
