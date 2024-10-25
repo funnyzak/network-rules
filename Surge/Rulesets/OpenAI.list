@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,cohere.com,AI
+DOMAIN-SUFFIX,cohere.ai,PROXY
+
 # OpenAI or AI related
 DOMAIN-SUFFIX,khroma.co
 DOMAIN-SUFFIX,copy.ai

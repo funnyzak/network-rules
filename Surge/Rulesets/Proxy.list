@@ -1,6 +1,25 @@
+DOMAIN-SUFFIX,igeekbb.com,PROXY
+DOMAIN-SUFFIX,typora.io,PROXY
+DOMAIN-SUFFIX,dtdplaylist.com,PROXY
+DOMAIN-SUFFIX,cursor.sh,PROXY
+
+DOMAIN-SUFFIX,follow.is,PROXY
+
+DOMAIN-SUFFIX,archive.today,PROXY
+
+DOMAIN-SUFFIX,savefrom.net,PROXY
+DOMAIN-SUFFIX,lucide.dev,PROXY
+DOMAIN-SUFFIX,gitbook.io,PROXY
+DOMAIN-SUFFIX,turboai.io,AI
+DOMAIN-SUFFIX,iconscan.com,PROXY
+
+DOMAIN-SUFFIX,nextcloud.com,PROXY
+
 # Spark
 DOMAIN-SUFFIX,downloads.sparkmailapp.com,PROXY
 
+DOMAIN-SUFFIX,agentneo.tech,PROXY
+ 
 DOMAIN,cloud.cache.wpscdn.com,PROXY
 DOMAIN-SUFFIX,cloud.wpscdn.com,PROXY
 DOMAIN,website-prod.cache.wpscdn.com,PROXY
