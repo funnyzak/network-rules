@@ -1,5 +1,10 @@
 DOMAIN-SUFFIX,cohere.com,AI
-DOMAIN-SUFFIX,cohere.ai,PROXY
+DOMAIN-SUFFIX,cohere.ai,OpenAI
+
+
+DOMAIN-SUFFIX,openrouter.com,OpenAI
+DOMAIN-SUFFIX,openrouter.ai,OpenAI
+DOMAIN-SUFFIX,openrouter.io,OpenAI
 
 # OpenAI or AI related
 DOMAIN-SUFFIX,khroma.co
@@ -13,11 +18,11 @@ DOMAIN-SUFFIX,huggingface.co,OpenAI
 DOMAIN,llama.meta.com,OpenAI
 DOMAIN-SUFFIX,devv.ai,OpenAI // Added for: devv.ai:443
 
-DOMAIN-SUFFIX,lobehub.com,PROXY
+DOMAIN-SUFFIX,lobehub.com,OpenAI
 
 DOMAIN-SUFFIX,mistral.ai,SnellUS
 DOMAIN-SUFFIX,groq.com,SnellUS
-DOMAIN-SUFFIX,meta.com,PROXY
+DOMAIN-SUFFIX,meta.com,OpenAI
 
 
 DOMAIN-SUFFIX,openai.com
