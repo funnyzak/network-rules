@@ -11,6 +11,7 @@ Rules and Scripts For Surge 、 QuantumultX 、Clash、Loon、Stash.
 
 ## Reference
 
+- [sgmodule](https://github.com/Maasea/sgmodule)
 - [yichengchen/clashX](https://github.com/yichengchen/clashX)
 - [Clash-Wiki](https://github.com/Dreamacro/clash/wiki)
 - [SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
