@@ -1,6 +1,12 @@
 DOMAIN-SUFFIX,cohere.com,AI
 DOMAIN-SUFFIX,cohere.ai,OpenAI
+DOMAIN-SUFFIX,cohere.com,Snell
 
+
+DOMAIN-SUFFIX,haiper.ai,AI
+DOMAIN-SUFFIX,stablevideo.com,AI
+DOMAIN-SUFFIX,x.ai,AI
+DOMAIN-SUFFIX,accio.com,AI
 
 DOMAIN-SUFFIX,openrouter.com,OpenAI
 DOMAIN-SUFFIX,openrouter.ai,OpenAI

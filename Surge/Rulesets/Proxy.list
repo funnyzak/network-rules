@@ -1,3 +1,47 @@
+DOMAIN-SUFFIX,f-droid.org,PROXY
+DOMAIN-SUFFIX,walzr.com,PROXY
+
+DOMAIN-SUFFIX,repo.maven.apache.org,HongKong
+
+DOMAIN-SUFFIX,yandex.com,United States
+DOMAIN-SUFFIX,htx.com,PROXY
+
+DOMAIN-SUFFIX,nn.ci,PROXY
+DOMAIN-SUFFIX,nmnm.store,PROXY
+DOMAIN-SUFFIX,plex.tv,PROXY
+DOMAIN-SUFFIX,sony.net,PROXY
+DOMAIN-SUFFIX,littlediffer.com,PROXY
+
+DOMAIN-SUFFIX,jsdelivr.net,PROXY
+DOMAIN-SUFFIX,chatboxai.app,PROXY
+DOMAIN-SUFFIX,unity.com,PROXY
+DOMAIN-SUFFIX,chinadigitaltimes.net,PROXY // Added for: chinadigitaltimes.net:443
+DOMAIN-SUFFIX,serpapi.com,United States
+DOMAIN-SUFFIX,patreonusercontent.com,PROXY
+DOMAIN-SUFFIX,patreon.com,PROXY
+DOMAIN-SUFFIX,registry.npmjs.org,PROXY
+DOMAIN-SUFFIX,iina.io,PROXY
+
+DOMAIN-SUFFIX,aiarty.com,PROXY
+DOMAIN-SUFFIX,imgur.com,PROXY
+DOMAIN-SUFFIX,nextchat.dev,PROXY
+
+DOMAIN-SUFFIX,f.ffneo.com,PROXY
+DOMAIN-SUFFIX,gpt.yycc.me,PROXY
+
+MAIN-SUFFIX,vercel.app,PROXY
+DOMAIN-SUFFIX,yahoo.com,PROXY
+DOMAIN-SUFFIX,yycc.dev,PROXY
+DOMAIN-SUFFIX,jitpack.io,PROXY
+
+DOMAIN-SUFFIX,aigcapi.io,PROXY
+DOMAIN-SUFFIX,reawote.com,PROXY
+DOMAIN-SUFFIX,freedidi.com,PROXY
+DOMAIN-SUFFIX,sms-activate.io,PROXY
+DOMAIN-SUFFIX,docker.com,PROXY
+DOMAIN-SUFFIX,clipdrop.co,PROXY
+DOMAIN-SUFFIX,dewatermark.ai,PROXY
+
 DOMAIN-SUFFIX,igeekbb.com,PROXY
 DOMAIN-SUFFIX,typora.io,PROXY
 DOMAIN-SUFFIX,dtdplaylist.com,PROXY
