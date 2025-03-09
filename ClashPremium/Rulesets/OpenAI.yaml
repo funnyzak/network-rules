@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,together.ai,OpenAI
+  - DOMAIN-SUFFIX,grok.com,OpenAI
 
   - DOMAIN-SUFFIX,copilot.microsoft.com,OpenAI
 
