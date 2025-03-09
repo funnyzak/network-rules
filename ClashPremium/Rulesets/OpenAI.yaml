@@ -1,7 +1,9 @@
 payload:
   - DOMAIN-SUFFIX,together.ai,OpenAI
   - DOMAIN-SUFFIX,grok.com,OpenAI
-
+  - DOMAIN-SUFFIX,qwen.ai,OpenAI
+  - DOMAIN-SUFFIX,uniapi.ai,OpenAI
+  - DOMAIN-SUFFIX,trae.ai,OpenAI
   - DOMAIN-SUFFIX,copilot.microsoft.com,OpenAI
 
   - DOMAIN-SUFFIX,suno.com,OpenAI
