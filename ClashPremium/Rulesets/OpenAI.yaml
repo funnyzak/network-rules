@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,featureassets.org,OpenAI
+
   - DOMAIN-SUFFIX,together.ai,OpenAI
   - DOMAIN-SUFFIX,grok.com,OpenAI
   - DOMAIN-SUFFIX,qwen.ai,OpenAI
