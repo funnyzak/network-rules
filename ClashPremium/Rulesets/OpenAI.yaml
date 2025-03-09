@@ -1,4 +1,30 @@
 payload:
+  - DOMAIN-SUFFIX,together.ai,OpenAI
+
+  - DOMAIN-SUFFIX,copilot.microsoft.com,OpenAI
+
+  - DOMAIN-SUFFIX,suno.com,OpenAI
+
+  - DOMAIN-SUFFIX,videolingo.io,OpenAI
+  - DOMAIN-SUFFIX,perplexity.ai,OpenAI
+
+  - DOMAIN-SUFFIX,heygen.com,OpenAI
+  - DOMAIN-SUFFIX,ai.com,OpenAI
+  - DOMAIN-SUFFIX,hermchats.com,OpenAI
+
+  - DOMAIN-SUFFIX,cohere.com,OpenAI
+  - DOMAIN-SUFFIX,cohere.ai,OpenAI
+  - DOMAIN-SUFFIX,cohere.com,Snell
+
+  - DOMAIN-SUFFIX,haiper.ai,OpenAI
+  - DOMAIN-SUFFIX,stablevideo.com,OpenAI
+  - DOMAIN-SUFFIX,x.ai,OpenAI
+  - DOMAIN-SUFFIX,accio.com,OpenAI
+
+  - DOMAIN-SUFFIX,openrouter.com,OpenAI
+  - DOMAIN-SUFFIX,openrouter.ai,OpenAI
+  - DOMAIN-SUFFIX,openrouter.io,OpenAI
+
   - DOMAIN-SUFFIX,khroma.co,OpenAI
   - DOMAIN-SUFFIX,copy.ai,OpenAI
   - DOMAIN-SUFFIX,magic.link,OpenAI
