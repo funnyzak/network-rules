@@ -1,77 +1,134 @@
-DOMAIN-SUFFIX,featureassets.org,OpenAI
-DOMAIN-SUFFIX,together.ai,AI
-DOMAIN-SUFFIX,grok.com,AI
-DOMAIN-SUFFIX,qwen.ai,AI
-DOMAIN-SUFFIX,uniapi.ai,AI
-DOMAIN-SUFFIX,trae.ai,AI
-
-DOMAIN-SUFFIX,copilot.microsoft.com,OpenAI
-
-DOMAIN-SUFFIX,suno.com,AI
-
-DOMAIN-SUFFIX,videolingo.io,AI
-DOMAIN-SUFFIX,perplexity.ai,AI
-
-DOMAIN-SUFFIX,heygen.com,AI
-DOMAIN-SUFFIX,ai.com,AI
-DOMAIN-SUFFIX,hermchats.com,AI
-
-DOMAIN-SUFFIX,cohere.com,AI
-DOMAIN-SUFFIX,cohere.ai,OpenAI
-DOMAIN-SUFFIX,cohere.com,Snell
-
-DOMAIN-SUFFIX,haiper.ai,AI
-DOMAIN-SUFFIX,stablevideo.com,AI
-DOMAIN-SUFFIX,x.ai,AI
-DOMAIN-SUFFIX,accio.com,AI
-
-DOMAIN-SUFFIX,openrouter.com,OpenAI
-DOMAIN-SUFFIX,openrouter.ai,OpenAI
-DOMAIN-SUFFIX,openrouter.io,OpenAI
-
-# OpenAI or AI related
-DOMAIN-SUFFIX,khroma.co
-DOMAIN-SUFFIX,copy.ai
-DOMAIN-SUFFIX,magic.link,OpenAI
-
-DOMAIN-SUFFIX,popai.pro,OpenAI
-DOMAIN-SUFFIX,livekit.cloud,OpenAI
-DOMAIN-SUFFIX,pixian.ai,OpenAI
-DOMAIN-SUFFIX,huggingface.co,OpenAI
-DOMAIN,llama.meta.com,OpenAI
-DOMAIN-SUFFIX,devv.ai,OpenAI // Added for: devv.ai:443
-
-DOMAIN-SUFFIX,lobehub.com,OpenAI
-
-DOMAIN-SUFFIX,mistral.ai,SnellUS
-DOMAIN-SUFFIX,groq.com,SnellUS
+# >> Meta AI
+DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com,OpenAI
+DOMAIN,llama.meta.com,OpenAI
 
-
+# >> OpenAI / ChatGPT
+# OpenAI A/B Flag, no geo blocking
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,civitai.com
-DOMAIN-SUFFIX,forefront.ai
-DOMAIN-SUFFIX,phind.com
-DOMAIN-SUFFIX,open-gpt.app
-DOMAIN-SUFFIX,reworkd.ai
 DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,featureassets.org,OpenAI
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,auth0.com
 DOMAIN,o33249.ingest.sentry.io
 
+# >> Microsoft Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com,OpenAI
 
-DOMAIN-SUFFIX,coze.com
+# >> Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai,AI
 
+# >> Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+# >> Google Gemini
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+
+# >> Google DeepMind
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# >> Google Generative Language API
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
+# >> Google AI Studio
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google
+
+# >> Google NotebookLM
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+
+# >> POE
+DOMAIN-SUFFIX,poe.com
+
+# >> Cloudflare AI Gateway
+DOMAIN,gateway.ai.cloudflare.com
+
+# >> Dify.AI
 DOMAIN-SUFFIX,dify.ai
+
+# >> Jasper
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,jasper.ai
+
+# >> OpenArt
+DOMAIN-SUFFIX,openart.ai
+
+# >> GitHub Copilot
+DOMAIN,api.github.com
+
+# >> Grok
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,grok.com
+
+# >> ByteDance
+DOMAIN-SUFFIX,trae.ai,AI
+
+# >> Suno
 DOMAIN-SUFFIX,suno.ai
+DOMAIN-SUFFIX,suno.com
+
+# >> AI Proxy
+DOMAIN-SUFFIX,ai-proxy.com
+DOMAIN-SUFFIX,uniapi.ai,AI
+DOMAIN-SUFFIX,open-gpt.app
+
+# >> OpenRouter
+DOMAIN-SUFFIX,openrouter.com,OpenAI
+DOMAIN-SUFFIX,openrouter.ai,OpenAI
+DOMAIN-SUFFIX,openrouter.io,OpenAI
+
+# >> AliCloud
+DOMAIN-SUFFIX,qwen.ai,AI
+
+
+# >> Other AI Related
+DOMAIN-SUFFIX,together.ai,AI
+DOMAIN-SUFFIX,videolingo.io,AI
+DOMAIN-SUFFIX,heygen.com,AI
+DOMAIN-SUFFIX,hermchats.com,AI
+DOMAIN-SUFFIX,cohere.com,AI
+DOMAIN-SUFFIX,cohere.ai,OpenAI
+DOMAIN-SUFFIX,cohere.com,Snell
+DOMAIN-SUFFIX,haiper.ai,AI
+DOMAIN-SUFFIX,stablevideo.com,AI
+DOMAIN-SUFFIX,accio.com,AI
+DOMAIN-SUFFIX,khroma.co
+DOMAIN-SUFFIX,copy.ai
+DOMAIN-SUFFIX,magic.link,OpenAI
+DOMAIN-SUFFIX,popai.pro,OpenAI
+DOMAIN-SUFFIX,livekit.cloud,OpenAI
+DOMAIN-SUFFIX,pixian.ai,OpenAI
+DOMAIN-SUFFIX,huggingface.co,OpenAI
+DOMAIN-SUFFIX,devv.ai,OpenAI
+DOMAIN-SUFFIX,lobehub.com,OpenAI
+DOMAIN-SUFFIX,mistral.ai,SnellUS
+DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,forefront.ai
+DOMAIN-SUFFIX,phind.com
+DOMAIN-SUFFIX,reworkd.ai
+DOMAIN-SUFFIX,coze.com
