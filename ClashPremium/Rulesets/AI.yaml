@@ -26,10 +26,10 @@ payload:
   - DOMAIN,o33249.ingest.sentry.io
 
   # >> Microsoft Copilot
-  - DOMAIN-SUFFIX,copilot.microsoft.com,OpenAI
+  - DOMAIN-SUFFIX,copilot.microsoft.com
 
   # >> Perplexity
-  - DOMAIN-SUFFIX,perplexity.ai,AI
+  - DOMAIN-SUFFIX,perplexity.ai
 
   # >> Claude
   - DOMAIN-SUFFIX,anthropic.com
