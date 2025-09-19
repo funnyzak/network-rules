@@ -4,6 +4,20 @@ payload:
   - DOMAIN-SUFFIX,meta.com,OpenAI
   - DOMAIN,llama.meta.com,OpenAI
 
+
+  - DOMAIN-SUFFIX,youware.com,OpenAI
+  - DOMAIN-SUFFIX,bria.ai,OpenAI
+  - DOMAIN-SUFFIX,cursor.com,OpenAI
+
+  - DOMAIN-SUFFIX,minimax.io,OpenAI
+  - DOMAIN-SUFFIX,minimaxi.com,OpenAI
+  - DOMAIN-SUFFIX,lovart.ai,OpenAI
+  - DOMAIN-SUFFIX,tu-zi.com,OpenAI
+  - DOMAIN-SUFFIX,capcut.com,OpenAI
+
+  - DOMAIN-SUFFIX,api.marscode.com,OpenAI
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com,OpenAI
+
   # >> OpenAI / ChatGPT
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,oaistatic.com

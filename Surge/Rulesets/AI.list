@@ -3,6 +3,20 @@ DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com,OpenAI
 DOMAIN,llama.meta.com,OpenAI
 
+DOMAIN-SUFFIX,youware.com,AI
+DOMAIN-SUFFIX,bria.ai,AI
+DOMAIN-SUFFIX,cursor.com,AI
+
+DOMAIN-SUFFIX,minimax.io,AI
+DOMAIN-SUFFIX,minimaxi.com,AI
+DOMAIN-SUFFIX,lovart.ai,AI
+DOMAIN-SUFFIX,tu-zi.com,AI
+DOMAIN-SUFFIX,capcut.com,AI
+
+DOMAIN-SUFFIX,api.marscode.com,AI
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,AI
+
+
 # >> OpenAI / ChatGPT
 # OpenAI A/B Flag, no geo blocking
 DOMAIN-SUFFIX,openai.com

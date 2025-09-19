@@ -1,6 +1,65 @@
 payload:
   # Proxy
 
+  - DOMAIN-SUFFIX,ubuntu.com,Proxy
+  - DOMAIN-SUFFIX,gotify.net,Proxy
+
+  - DOMAIN-SUFFIX,sliders.yycc.me,Proxy
+  - DOMAIN-SUFFIX,pages.dev,Proxy
+  - DOMAIN-SUFFIX,wappalyzer.com,Proxy
+  - DOMAIN-SUFFIX,app.yourware.so,Proxy
+  - DOMAIN-SUFFIX,transfer.sh,Proxy
+
+  - DOMAIN-SUFFIX,trickle.host,Proxy
+  - DOMAIN-SUFFIX,trickle.so,Proxy
+  - DOMAIN-SUFFIX,same.dev,Proxy
+  - DOMAIN-SUFFIX,nodeseek.com,Proxy
+  - DOMAIN-SUFFIX,azureedge.net,Proxy
+  - DOMAIN-SUFFIX,edgeservices.bing.com,Proxy
+
+  - DOMAIN-SUFFIX,gemagora.studio,Proxy
+  - DOMAIN-SUFFIX,taro.zone,Proxy
+
+  - DOMAIN-SUFFIX,eiun.net,Proxy
+  - DOMAIN-SUFFIX,usercontent.goog,Proxy
+  - DOMAIN-SUFFIX,redircdn.com,Proxy
+  - DOMAIN-SUFFIX,olehdtv.com,Proxy
+  - DOMAIN-SUFFIX,qianxin.com,Proxy
+
+  - DOMAIN-SUFFIX,oplist.org,Proxy
+  - DOMAIN-SUFFIX,rwth-aachen.de,DIRECT
+  - DOMAIN-SUFFIX,blender.org,Proxy
+
+  - DOMAIN-SUFFIX,certimate.me,Proxy
+  - DOMAIN-SUFFIX,theinitium.com,Proxy
+  - DOMAIN-SUFFIX,wallkit.net,Proxy
+
+  - DOMAIN-SUFFIX,linktree.com,Proxy
+
+  - DOMAIN-SUFFIX,filestash.app,Proxy
+  - DOMAIN-SUFFIX,download-cdn.panic.com,Proxy
+  - DOMAIN-SUFFIX,mtj.baidu.com,DIRECT
+  - DOMAIN-SUFFIX,imagedelivery.net,Proxy
+
+  - DOMAIN-SUFFIX,pastenow.app,Proxy
+  - DOMAIN-SUFFIX,longbridge.com,Proxy
+  - DOMAIN-SUFFIX,4chan.org,Proxy
+  - DOMAIN-SUFFIX,deepwiki.com,Proxy
+
+  - DOMAIN-SUFFIX,blackmagicdesign.com,Proxy
+
+  - DOMAIN-SUFFIX,canva.cn,Proxy
+  - DOMAIN-SUFFIX,cutout.pro,Proxy
+  - DOMAIN-SUFFIX,halu.ca,Proxy
+
+  - DOMAIN-SUFFIX,segment.io,Proxy
+  - DOMAIN-SUFFIX,diabrowser.com,Proxy
+  - DOMAIN-SUFFIX,runwayml.com,Proxy
+  - DOMAIN-SUFFIX,edgeone.ai,Proxy
+
+  - DOMAIN-SUFFIX,sketchfab.com,Proxy
+  - DOMAIN-SUFFIX,tube8.com,Proxy
+
   # (DNS Cache Pollution Protection)
 
   - DOMAIN-KEYWORD,blogspot,Proxy
