@@ -13,3 +13,6 @@ DOMAIN,download.docker.com
 
 
 DOMAIN-SUFFIX,download.unity3d.com
+
+# >>> Synced from Clash ruleset >>>
+DOMAIN-SUFFIX,vercel.app

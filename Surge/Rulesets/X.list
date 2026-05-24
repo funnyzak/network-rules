@@ -5,3 +5,11 @@ DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.comDOMAIN-SUFFIX
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
+
+# >>> Synced from Clash ruleset >>>
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,x.com
+DOMAIN-KEYWORD,twitter

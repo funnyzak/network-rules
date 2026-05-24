@@ -40,3 +40,6 @@ payload:
   - IP-CIDR,66.197.128.0/17
   - IP-CIDR,69.53.224.0/19
   - IP-CIDR,8.41.4.0/24
+
+  # >>> Synced from Surge ruleset >>>
+  - USER-AGENT,Argo*

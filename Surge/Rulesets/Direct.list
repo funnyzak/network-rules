@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN,download.docker.com
 DOMAIN-SUFFIX,download.unity3d.com
+DOMAIN-SUFFIX,vercel.app
 
 # >>> Source: Teamviewer.list
 PROCESS-NAME,TeamViewer

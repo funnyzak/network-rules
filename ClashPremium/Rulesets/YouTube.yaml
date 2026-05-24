@@ -184,3 +184,9 @@ payload:
 
   # NAME: YouTubeMusic
   - DOMAIN,music.youtube.com
+
+  # >>> Synced from Surge ruleset >>>
+  - USER-AGENT,com.google.ios.youtube*
+  - USER-AGENT,YouTube*
+  - DOMAIN,youtubei.googleapis.com
+  - PROCESS-NAME,YT Music

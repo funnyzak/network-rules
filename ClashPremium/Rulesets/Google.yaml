@@ -688,12 +688,8 @@ payload:
   - DOMAIN,www.googleapis.com
   - DOMAIN-SUFFIX,docs.google.com
   - DOMAIN-SUFFIX,drive.google.com
-  - DOMAIN-SUFFIX,googledrive.com
-  - DOMAIN-SUFFIX,googleusercontent.com
-  - PROCESS-NAME,backupandsync
 
   # NAME: GoogleSearch
-  - DOMAIN-KEYWORD,www.google.
 
   # NAME: GoogleVoice
   - DOMAIN,lens.l.google.com
@@ -702,3 +698,7 @@ payload:
   - DOMAIN,pop.gmail.com
   - DOMAIN,imap.gmail.com
   - DOMAIN,smtp.gmail.com
+  - DOMAIN-SUFFIX,c.gle
+
+  # >>> Synced from Surge ruleset >>>
+  - DOMAIN-SUFFIX,idx.dev

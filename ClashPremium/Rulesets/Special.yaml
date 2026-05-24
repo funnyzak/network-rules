@@ -1,2 +1,11 @@
 payload:
-  - DOMAIN-SUFFIX,vercel.app,Proxy
+  - DOMAIN-SUFFIX,vercel.app
+
+  # >>> Synced from Surge ruleset >>>
+  - DOMAIN-SUFFIX,spotifycdn.net
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN,download.docker.com
+  - DOMAIN-SUFFIX,download.unity3d.com

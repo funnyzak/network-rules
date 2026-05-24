@@ -16,3 +16,6 @@ payload:
   - DOMAIN-KEYWORD,-spotify-com
   - DOMAIN-KEYWORD,spotify.com
   - IP-CIDR,35.186.224.47/32
+
+  # >>> Synced from Surge ruleset >>>
+  - USER-AGENT,*Spotify*
