@@ -1,3 +1,7 @@
+# >>> Consolidated Group: Media <<<
+
+
+# >>> Source: ForeignMedia.list
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-KEYWORD,abematv.akamaized.net
@@ -276,3 +280,37 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,music.youtube.com
+
+# >>> Source: YouTube.list
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTube*
+PROCESS-NAME,YT Music
+
+# >>> Source: Netflix.list
+USER-AGENT,Argo*
+
+# >>> Source: Spotify.list
+USER-AGENT,*Spotify*
+DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,spotify-com.akamaized.net
+DOMAIN-SUFFIX,spotify-everywhere.com
+DOMAIN-SUFFIX,spotify.design
+DOMAIN-SUFFIX,spotifycharts.com
+DOMAIN-SUFFIX,spotifycodes.com
+DOMAIN-SUFFIX,spotifyforbrands.com
+DOMAIN-SUFFIX,spotifyjobs.com
+IP-CIDR,35.186.224.47/32
+
+# >>> Source: TikTok.list
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-KEYWORD,-tiktokcdn-com
+USER-AGENT,TikTok*
+DOMAIN-SUFFIX,tokcdn.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+
+# >>> Source: BBC.list
+USER-AGENT,BBCiPlayer*
+DOMAIN-KEYWORD,co.uk

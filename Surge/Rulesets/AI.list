@@ -1,20 +1,20 @@
 # >> Meta AI
 DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,meta.com,OpenAI
-DOMAIN,llama.meta.com,OpenAI
+DOMAIN-SUFFIX,meta.com
+DOMAIN,llama.meta.com
 
-DOMAIN-SUFFIX,youware.com,AI
-DOMAIN-SUFFIX,bria.ai,AI
-DOMAIN-SUFFIX,cursor.com,AI
+DOMAIN-SUFFIX,youware.com
+DOMAIN-SUFFIX,bria.ai
+DOMAIN-SUFFIX,cursor.com
 
-DOMAIN-SUFFIX,minimax.io,AI
-DOMAIN-SUFFIX,minimaxi.com,AI
-DOMAIN-SUFFIX,lovart.ai,AI
-DOMAIN-SUFFIX,tu-zi.com,AI
-DOMAIN-SUFFIX,capcut.com,AI
+DOMAIN-SUFFIX,minimax.io
+DOMAIN-SUFFIX,minimaxi.com
+DOMAIN-SUFFIX,lovart.ai
+DOMAIN-SUFFIX,tu-zi.com
+DOMAIN-SUFFIX,capcut.com
 
-DOMAIN-SUFFIX,api.marscode.com,AI
-DOMAIN-SUFFIX,generativelanguage.googleapis.com,AI
+DOMAIN-SUFFIX,api.marscode.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
 
 
 # >> OpenAI / ChatGPT
@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,featureassets.org,OpenAI
+DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openaiapi-site.azureedge.net
@@ -40,13 +40,16 @@ DOMAIN-SUFFIX,auth0.com
 DOMAIN,o33249.ingest.sentry.io
 
 # >> Microsoft Copilot
-DOMAIN-SUFFIX,copilot.microsoft.com,OpenAI
+DOMAIN-SUFFIX,copilot.microsoft.com
 
 # >> Perplexity
 DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,perplexity.ai,AI
 
 # >> Claude
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,claudecdn.com
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,claude.app
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 
@@ -59,7 +62,6 @@ DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 
 # >> Google Generative Language API
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
@@ -96,11 +98,10 @@ DOMAIN,api.github.com
 
 # >> Grok
 DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,grok.com
 
 # >> ByteDance
-DOMAIN-SUFFIX,trae.ai,AI
+DOMAIN-SUFFIX,trae.ai
 
 # >> Suno
 DOMAIN-SUFFIX,suno.ai
@@ -108,41 +109,56 @@ DOMAIN-SUFFIX,suno.com
 
 # >> AI Proxy
 DOMAIN-SUFFIX,ai-proxy.com
-DOMAIN-SUFFIX,uniapi.ai,AI
+DOMAIN-SUFFIX,uniapi.ai
 DOMAIN-SUFFIX,open-gpt.app
 
 # >> OpenRouter
-DOMAIN-SUFFIX,openrouter.com,OpenAI
-DOMAIN-SUFFIX,openrouter.ai,OpenAI
-DOMAIN-SUFFIX,openrouter.io,OpenAI
+DOMAIN-SUFFIX,openrouter.com
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,openrouter.io
 
 # >> AliCloud
-DOMAIN-SUFFIX,qwen.ai,AI
+DOMAIN-SUFFIX,qwen.ai
 
 
 # >> Other AI Related
-DOMAIN-SUFFIX,together.ai,AI
-DOMAIN-SUFFIX,videolingo.io,AI
-DOMAIN-SUFFIX,heygen.com,AI
-DOMAIN-SUFFIX,hermchats.com,AI
-DOMAIN-SUFFIX,cohere.com,AI
-DOMAIN-SUFFIX,cohere.ai,OpenAI
-DOMAIN-SUFFIX,cohere.com,Snell
-DOMAIN-SUFFIX,haiper.ai,AI
-DOMAIN-SUFFIX,stablevideo.com,AI
-DOMAIN-SUFFIX,accio.com,AI
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,videolingo.io
+DOMAIN-SUFFIX,heygen.com
+DOMAIN-SUFFIX,hermchats.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,haiper.ai
+DOMAIN-SUFFIX,stablevideo.com
+DOMAIN-SUFFIX,accio.com
 DOMAIN-SUFFIX,khroma.co
 DOMAIN-SUFFIX,copy.ai
-DOMAIN-SUFFIX,magic.link,OpenAI
-DOMAIN-SUFFIX,popai.pro,OpenAI
-DOMAIN-SUFFIX,livekit.cloud,OpenAI
-DOMAIN-SUFFIX,pixian.ai,OpenAI
-DOMAIN-SUFFIX,huggingface.co,OpenAI
-DOMAIN-SUFFIX,devv.ai,OpenAI
-DOMAIN-SUFFIX,lobehub.com,OpenAI
-DOMAIN-SUFFIX,mistral.ai,SnellUS
+DOMAIN-SUFFIX,magic.link
+DOMAIN-SUFFIX,popai.pro
+DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,pixian.ai
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,devv.ai
+DOMAIN-SUFFIX,lobehub.com
+DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,forefront.ai
 DOMAIN-SUFFIX,phind.com
 DOMAIN-SUFFIX,reworkd.ai
 DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,weights.com
+DOMAIN-SUFFIX,weights.gg
+DOMAIN-SUFFIX,fish.audio
+DOMAIN-SUFFIX,sider.ai
+DOMAIN-SUFFIX,metademolab.com
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,9985678.xyz
+DOMAIN-SUFFIX,qaq.ai
+DOMAIN-SUFFIX,youmind.com
+DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,yes.vg
+DOMAIN-SUFFIX,tavily.com
+DOMAIN-SUFFIX,megallm.io
+DOMAIN-SUFFIX,augmentcode.com

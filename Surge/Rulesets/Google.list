@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,idx.dev,Google
+DOMAIN-SUFFIX,idx.dev
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
@@ -686,14 +686,11 @@ PROCESS-NAME,googledrivefs.exe
 DOMAIN,www.googleapis.com
 DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,drive.google.com
-DOMAIN-SUFFIX,googledrive.com
-DOMAIN-SUFFIX,googleusercontent.com
-PROCESS-NAME,backupandsync
 
-DOMAIN-KEYWORD,www.google.
 
 DOMAIN,lens.l.google.com
 
 DOMAIN,pop.gmail.com
 DOMAIN,imap.gmail.com
 DOMAIN,smtp.gmail.com
+DOMAIN-SUFFIX,c.gle

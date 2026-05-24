@@ -1,6 +1,6 @@
-USER-AGENT,Slack*,Proxy
+USER-AGENT,Slack*
 
 ## 通用部分
-DOMAIN-SUFFIX,slack-edge.com,Proxy
-DOMAIN-SUFFIX,slack.com,Proxy
-DOMAIN-SUFFIX,slack-msgs.com,Proxy
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slack-msgs.com

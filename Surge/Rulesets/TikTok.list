@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,-tiktokcdn-com
 USER-AGENT,TikTok*
+DOMAIN-SUFFIX,tokcdn.com
+DOMAIN-SUFFIX,tiktokcdn-us.com

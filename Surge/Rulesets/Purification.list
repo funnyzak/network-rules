@@ -1,5 +1,5 @@
 # 净化应用内广告(拦截弹窗等)
-IP-CIDR,131.0.72.0/22,☁️ CloudFlare,no-resolve
+IP-CIDR,131.0.72.0/22,no-resolve
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,adgeo.corp.163.com
 DOMAIN-SUFFIX,analytics.126.net
@@ -277,7 +277,6 @@ DOMAIN-SUFFIX,pups.baidu.com
 DOMAIN-SUFFIX,pups.bdimg.com
 DOMAIN-SUFFIX,push.music.baidu.com
 DOMAIN-SUFFIX,push.zhanzhang.baidu.com
-DOMAIN-SUFFIX,qchannel0d.cn
 DOMAIN-SUFFIX,qianclick.baidu.com
 DOMAIN-SUFFIX,release.baidu.com
 DOMAIN-SUFFIX,res.limei.com
@@ -801,21 +800,16 @@ DOMAIN-SUFFIX,bd.hd.sohu.com
 DOMAIN-SUFFIX,click.hd.sohu.com
 DOMAIN-SUFFIX,click2.hd.sohu.com
 DOMAIN-SUFFIX,ctr.hd.sohu.com
-DOMAIN-SUFFIX,epro.sogou.com
 DOMAIN-SUFFIX,epro.sohu.com
 DOMAIN-SUFFIX,go.sohu.com
-DOMAIN-SUFFIX,golden1.sogou.com
 DOMAIN-SUFFIX,golden1.sohu.com
 DOMAIN-SUFFIX,hui.sohu.com
-DOMAIN-SUFFIX,inte.sogou.com
 DOMAIN-SUFFIX,inte.sogoucdn.com
 DOMAIN-SUFFIX,inte.sohu.com
 DOMAIN-SUFFIX,lm.tv.sohu.com
-DOMAIN-SUFFIX,lu.sogoucdn.com
 DOMAIN-SUFFIX,pb.hd.sohu.com
 DOMAIN-SUFFIX,push.tv.sohu.com
 DOMAIN-SUFFIX,pv.hd.sohu.com
-DOMAIN-SUFFIX,pv.sogou.com
 DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN-SUFFIX,theta.sogoucdn.com
 DOMAIN-SUFFIX,um.hd.sohu.com

@@ -1,5 +1,5 @@
 # NAME: Discord
-DOMAIN-SUFFIX,discordapp.com,Discord
+DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,airhorn.solutions
 DOMAIN-SUFFIX,airhornbot.com
 DOMAIN-SUFFIX,bigbeans.solutions
@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,discord.new
 DOMAIN-SUFFIX,discord.store
 DOMAIN-SUFFIX,discord.tools
 DOMAIN-SUFFIX,discordactivities.com
-DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.io
 DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discordapp.page.link
