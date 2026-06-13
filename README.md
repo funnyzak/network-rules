@@ -33,3 +33,4 @@ Rules and Scripts For Surge 、 QuantumultX 、Clash、Loon、Stash.
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
 - [os_rule_scrip](https://github.com/blackmatrix7/ios_rule_script)
 - [AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)
+- [anthropic-claude-surge-rules-set](https://github.com/xiaolai/anthropic-claude-surge-rules-set)

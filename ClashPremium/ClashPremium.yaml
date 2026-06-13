@@ -526,6 +526,19 @@ rules:
   - RULE-SET,PayPal,PayPal
   - RULE-SET,Pornhub,Pornhub
   - RULE-SET,Discord,Discord
+  - RULE-SET,ClaudeAI,PROXY
+  - RULE-SET,OpenAI,PROXY
+  - RULE-SET,Gemini,PROXY
+  - RULE-SET,Copilot,PROXY
+  - RULE-SET,xAI,PROXY
+  - RULE-SET,Perplexity,PROXY
+  - RULE-SET,Cursor,PROXY
+  - RULE-SET,TikTok,PROXY
+  - RULE-SET,CloudFlare,PROXY
+  - RULE-SET,BBC,PROXY
+  - RULE-SET,Slack,PROXY
+  - RULE-SET,Crypto,PROXY
+  - RULE-SET,Line,PROXY
   - RULE-SET,Cncidr,DIRECT
   - RULE-SET,iCloud,iCloud
 
@@ -701,6 +714,84 @@ rule-providers:
     behavior: classical
     url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/WeChat.yaml
     path: ./ruleset/classical/WeChat.yaml
+    interval: 86400
+  TikTok:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/TikTok.yaml
+    path: ./ruleset/classical/TikTok.yaml
+    interval: 86400
+  CloudFlare:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/CloudFlare.yaml
+    path: ./ruleset/classical/CloudFlare.yaml
+    interval: 86400
+  BBC:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/BBC.yaml
+    path: ./ruleset/classical/BBC.yaml
+    interval: 86400
+  Slack:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/Slack.yaml
+    path: ./ruleset/classical/Slack.yaml
+    interval: 86400
+  Crypto:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/Crypto.yaml
+    path: ./ruleset/classical/Crypto.yaml
+    interval: 86400
+  Line:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/Line.yaml
+    path: ./ruleset/classical/Line.yaml
+    interval: 86400
+  ClaudeAI:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/ClaudeAI.yaml
+    path: ./ruleset/classical/ClaudeAI.yaml
+    interval: 86400
+  OpenAI:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/OpenAI.yaml
+    path: ./ruleset/classical/OpenAI.yaml
+    interval: 86400
+  Gemini:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/Gemini.yaml
+    path: ./ruleset/classical/Gemini.yaml
+    interval: 86400
+  Copilot:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/Copilot.yaml
+    path: ./ruleset/classical/Copilot.yaml
+    interval: 86400
+  xAI:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/xAI.yaml
+    path: ./ruleset/classical/xAI.yaml
+    interval: 86400
+  Perplexity:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/Perplexity.yaml
+    path: ./ruleset/classical/Perplexity.yaml
+    interval: 86400
+  Cursor:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/funnyzak/network-rules/main/ClashPremium/Rulesets/Cursor.yaml
+    path: ./ruleset/classical/Cursor.yaml
     interval: 86400
   Cncidr:
     type: http

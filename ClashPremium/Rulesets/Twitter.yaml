@@ -11,6 +11,3 @@ payload:
   - DOMAIN-SUFFIX,vine.co
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-KEYWORD,twitter
-
-  # >>> Synced from Surge ruleset >>>
-  - DOMAIN-SUFFIX,x.comDOMAIN-SUFFIX

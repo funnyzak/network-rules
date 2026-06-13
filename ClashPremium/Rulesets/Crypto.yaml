@@ -1,0 +1,4 @@
+payload:
+  # >> Crypto
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,binance.com
