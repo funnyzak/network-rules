@@ -34,6 +34,7 @@ const CONFIG = {
         "CamScanner_Erase",
         "CamScanner_Intellect_Erase",
         "CamScanner_RoadMap",
+        "CamScanner_RoadMap_Excel",
         "CamScanner_Toolbox_Watermark",
         "CamScanner_Bills_Verify",
         "CamScanner_AI_Doc_Image_Multi_Edit",
@@ -45,6 +46,34 @@ const CONFIG = {
 const SECONDS_PER_YEAR = 31536000;
 const originalBody = $response.body || "";
 
+const VIP_TEMPLATE = {
+    vip_type: "vip",
+    grade: 1,
+    is_super_vip: 0,
+    svip: 0,
+    auto_renewal: true,
+    renew_method: "appstore",
+    renew_type: "month",
+    product_id: "com.intsig.camscanner.premiums.180day.autorenewable.aftermonth",
+    group1_paid: 1,
+    group2_paid: 0,
+    inherited_flag: 0,
+    pending: 0,
+    pc_vip: 0,
+    ys_first_pay: 0,
+    ms_first_pay: 0,
+    last_payment_method: "appstore",
+    initial_tm: String(Math.floor(Date.now() / 1000)),
+    vip_level_info: {
+        level: 1,
+        score: 100,
+        start_score: 1,
+        next_score: 600,
+        create_time: Math.floor(Date.now() / 1000)
+    },
+    level_info: {}
+};
+
 try {
     const obj = JSON.parse(originalBody);
     const data = (obj && obj.data) ? obj.data : {};
@@ -52,7 +81,7 @@ try {
     const serverTime = parseInt(data.server_time, 10) || Math.floor(Date.now() / 1000);
     const futureExpiry = serverTime + CONFIG.VALIDITY_YEARS * SECONDS_PER_YEAR;
 
-    const psnl = data.psnl_vip_property || {};
+    const psnl = Object.assign({}, VIP_TEMPLATE, data.psnl_vip_property || {});
     if (CONFIG.FORCE_IN_TRIAL) psnl.in_trial = 1;
     if (CONFIG.FORCE_AUTO_RENEWAL) psnl.auto_renewal = true;
     psnl.expiry = futureExpiry;
@@ -60,9 +89,7 @@ try {
     data.psnl_vip_property = psnl;
 
     CONFIG.BALANCE_KEYS.forEach((key) => {
-        if (Object.prototype.hasOwnProperty.call(data, key)) {
-            data[key] = (typeof data[key] === "string") ? String(CONFIG.MAX_BALANCE) : CONFIG.MAX_BALANCE;
-        }
+        data[key] = (typeof data[key] === "string") ? String(CONFIG.MAX_BALANCE) : CONFIG.MAX_BALANCE;
     });
 
     obj.data = data;
