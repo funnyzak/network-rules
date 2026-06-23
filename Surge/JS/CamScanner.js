@@ -93,19 +93,8 @@ try {
     });
 
     obj.data = data;
-
-    console.log(JSON.stringify({
-        ret: obj.ret,
-        server_time: serverTime,
-        in_trial: psnl.in_trial,
-        expiry: psnl.expiry,
-        vip_type: psnl.vip_type,
-        auto_renewal: psnl.auto_renewal,
-        maxed: CONFIG.MAX_BALANCE
-    }));
-
+    
     $done({ body: JSON.stringify(obj) });
 } catch (error) {
-    console.log("CamScanner rewrite failed: " + error.message);
     $done({ body: originalBody });
 }
