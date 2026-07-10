@@ -1,0 +1,178 @@
+# NAME: AI
+# SOURCE: Surge/Rulesets/AI.list
+
+# >> Meta AI
+DOMAIN-SUFFIX,meta.ai,AI
+DOMAIN-SUFFIX,meta.com,AI
+DOMAIN,llama.meta.com,AI
+
+DOMAIN-SUFFIX,youware.com,AI
+DOMAIN-SUFFIX,bria.ai,AI
+DOMAIN-SUFFIX,cursor.com,AI
+
+DOMAIN-SUFFIX,minimax.io,AI
+DOMAIN-SUFFIX,minimaxi.com,AI
+DOMAIN-SUFFIX,lovart.ai,AI
+DOMAIN-SUFFIX,tu-zi.com,AI
+DOMAIN-SUFFIX,capcut.com,AI
+
+DOMAIN-SUFFIX,api.marscode.com,AI
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,AI
+
+
+# >> OpenAI / ChatGPT
+# OpenAI A/B Flag, no geo blocking
+DOMAIN-SUFFIX,openai.com,AI
+DOMAIN-SUFFIX,oaistatic.com,AI
+DOMAIN-SUFFIX,sora.com,AI
+DOMAIN-SUFFIX,chatgpt.com,AI
+DOMAIN-SUFFIX,chat.com,AI
+DOMAIN-SUFFIX,ai.com,AI
+DOMAIN-SUFFIX,x.ai,AI
+DOMAIN-KEYWORD,openai,AI
+DOMAIN-SUFFIX,featureassets.org,AI
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,AI
+DOMAIN,chat.openai.com.cdn.cloudflare.net,AI
+DOMAIN,openaiapi-site.azureedge.net,AI
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI
+DOMAIN,openaicomproductionae4b.blob.core.windows.net,AI
+DOMAIN,production-openaicom-storage.azureedge.net,AI
+DOMAIN-SUFFIX,sentry.io,AI
+DOMAIN-SUFFIX,identrust.com,AI
+DOMAIN-SUFFIX,auth0.com,AI
+DOMAIN,o33249.ingest.sentry.io,AI
+
+# >> Microsoft Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com,AI
+
+# >> Perplexity
+DOMAIN-SUFFIX,perplexity.ai,AI
+
+# >> Claude
+DOMAIN,cdn.usefathom.com,AI
+DOMAIN-SUFFIX,claudecdn.com,AI
+DOMAIN-SUFFIX,claude.site,AI
+DOMAIN-SUFFIX,claude.app,AI
+DOMAIN-SUFFIX,anthropic.com,AI
+DOMAIN-SUFFIX,claude.ai,AI
+DOMAIN-SUFFIX,claude.com,AI
+DOMAIN-SUFFIX,claudeusercontent.com,AI
+DOMAIN-SUFFIX,clau.de,AI
+DOMAIN-SUFFIX,modelcontextprotocol.io,AI
+DOMAIN,storage.googleapis.com,AI
+DOMAIN-SUFFIX,growthbook.io,AI
+DOMAIN-SUFFIX,intercom.io,AI
+DOMAIN-SUFFIX,intercomcdn.com,AI
+DOMAIN-SUFFIX,datadoghq.com,AI
+IP-CIDR,160.79.104.0/21,AI,no-resolve
+IP-CIDR6,2607:6bc0::/48,AI,no-resolve
+
+# >> Google Gemini
+DOMAIN-SUFFIX,bard.google.com,AI
+DOMAIN-SUFFIX,gemini.google.com,AI
+
+# >> Google DeepMind
+DOMAIN-SUFFIX,deepmind.com,AI
+DOMAIN-SUFFIX,deepmind.google,AI
+
+# >> Google Generative Language API
+DOMAIN-SUFFIX,geller-pa.googleapis.com,AI
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,AI
+
+# >> Google AI Studio
+DOMAIN,ai.google.dev,AI
+DOMAIN-SUFFIX,aistudio.google.com,AI
+DOMAIN-SUFFIX,makersuite.google.com,AI
+DOMAIN,alkalicore-pa.clients6.google.com,AI
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com,AI
+DOMAIN-SUFFIX,generativeai.google,AI
+
+# >> Google NotebookLM
+DOMAIN-SUFFIX,notebooklm.google,AI
+DOMAIN-SUFFIX,notebooklm.google.com,AI
+
+# >> POE
+DOMAIN-SUFFIX,poe.com,AI
+
+# >> Cloudflare AI Gateway
+DOMAIN,gateway.ai.cloudflare.com,AI
+
+# >> Dify.AI
+DOMAIN-SUFFIX,dify.ai,AI
+
+# >> Jasper
+DOMAIN-SUFFIX,clipdrop.co,AI
+DOMAIN-SUFFIX,jasper.ai,AI
+
+# >> OpenArt
+DOMAIN-SUFFIX,openart.ai,AI
+
+# >> GitHub Copilot
+DOMAIN,api.github.com,AI
+
+# >> Grok
+DOMAIN-SUFFIX,groq.com,AI
+DOMAIN-SUFFIX,grok.com,AI
+
+# >> ByteDance
+DOMAIN-SUFFIX,trae.ai,AI
+
+# >> Suno
+DOMAIN-SUFFIX,suno.ai,AI
+DOMAIN-SUFFIX,suno.com,AI
+
+# >> AI Proxy
+DOMAIN-SUFFIX,ai-proxy.com,AI
+DOMAIN-SUFFIX,uniapi.ai,AI
+DOMAIN-SUFFIX,open-gpt.app,AI
+
+# >> OpenRouter
+DOMAIN-SUFFIX,openrouter.com,AI
+DOMAIN-SUFFIX,openrouter.ai,AI
+DOMAIN-SUFFIX,openrouter.io,AI
+
+# >> AliCloud
+DOMAIN-SUFFIX,qwen.ai,AI
+
+
+# >> Other AI Related
+DOMAIN-SUFFIX,together.ai,AI
+DOMAIN-SUFFIX,videolingo.io,AI
+DOMAIN-SUFFIX,heygen.com,AI
+DOMAIN-SUFFIX,hermchats.com,AI
+DOMAIN-SUFFIX,cohere.com,AI
+DOMAIN-SUFFIX,cohere.ai,AI
+DOMAIN-SUFFIX,haiper.ai,AI
+DOMAIN-SUFFIX,stablevideo.com,AI
+DOMAIN-SUFFIX,accio.com,AI
+DOMAIN-SUFFIX,khroma.co,AI
+DOMAIN-SUFFIX,copy.ai,AI
+DOMAIN-SUFFIX,magic.link,AI
+DOMAIN-SUFFIX,popai.pro,AI
+DOMAIN-SUFFIX,livekit.cloud,AI
+DOMAIN-SUFFIX,pixian.ai,AI
+DOMAIN-SUFFIX,huggingface.co,AI
+DOMAIN-SUFFIX,devv.ai,AI
+DOMAIN-SUFFIX,lobehub.com,AI
+DOMAIN-SUFFIX,mistral.ai,AI
+DOMAIN-SUFFIX,civitai.com,AI
+DOMAIN-SUFFIX,forefront.ai,AI
+DOMAIN-SUFFIX,phind.com,AI
+DOMAIN-SUFFIX,reworkd.ai,AI
+DOMAIN-SUFFIX,coze.com,AI
+DOMAIN-SUFFIX,weights.com,AI
+DOMAIN-SUFFIX,weights.gg,AI
+DOMAIN-SUFFIX,fish.audio,AI
+DOMAIN-SUFFIX,sider.ai,AI
+DOMAIN-SUFFIX,metademolab.com,AI
+DOMAIN-SUFFIX,grokipedia.com,AI
+DOMAIN-SUFFIX,9985678.xyz,AI
+DOMAIN-SUFFIX,qaq.ai,AI
+DOMAIN-SUFFIX,youmind.com,AI
+DOMAIN-SUFFIX,ai.studio,AI
+DOMAIN-SUFFIX,nvidia.com,AI
+DOMAIN-SUFFIX,manus.im,AI
+DOMAIN-SUFFIX,yes.vg,AI
+DOMAIN-SUFFIX,tavily.com,AI
+DOMAIN-SUFFIX,megallm.io,AI
+DOMAIN-SUFFIX,augmentcode.com,AI

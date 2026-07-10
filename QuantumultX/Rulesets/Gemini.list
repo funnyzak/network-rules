@@ -1,0 +1,45 @@
+# NAME: Gemini
+# SOURCE: Surge/Rulesets/Gemini.list
+
+# >> Google AI (Gemini / AI Studio / DeepMind / NotebookLM)
+# Core
+DOMAIN,ai.google.dev,Gemini
+DOMAIN,alkalicore-pa.clients6.google.com,Gemini
+DOMAIN,alkalimakersuite-pa.clients6.google.com,Gemini
+DOMAIN,antigravity-pa.googleapis.com,Gemini
+DOMAIN,antigravity.googleapis.com,Gemini
+DOMAIN,cloudaicompanion.googleapis.com,Gemini
+DOMAIN,cloudcode-pa.googleapis.com,Gemini
+DOMAIN,daily-cloudcode-pa.googleapis.com,Gemini
+DOMAIN,notebooklm-pa.googleapis.com,Gemini
+DOMAIN,notebooklm.googleapis.com,Gemini
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com,Gemini
+DOMAIN-SUFFIX,ai.studio,Gemini
+DOMAIN-SUFFIX,aicode.googleapis.com,Gemini
+DOMAIN-SUFFIX,aida.googleapis.com,Gemini
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,Gemini
+DOMAIN-SUFFIX,aistudio.google.com,Gemini
+DOMAIN-SUFFIX,antigravity-unleash.goog,Gemini
+DOMAIN-SUFFIX,antigravity.google,Gemini
+DOMAIN-SUFFIX,antigravity.google.com,Gemini
+DOMAIN-SUFFIX,bard.google.com,Gemini
+DOMAIN-SUFFIX,deepmind.com,Gemini
+DOMAIN-SUFFIX,deepmind.google,Gemini
+DOMAIN-SUFFIX,geller-pa.googleapis.com,Gemini
+DOMAIN-SUFFIX,gemini.google,Gemini
+DOMAIN-SUFFIX,gemini.google.com,Gemini
+DOMAIN-SUFFIX,gemini.gstatic.com,Gemini
+DOMAIN-SUFFIX,generativeai.google,Gemini
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,Gemini
+DOMAIN-SUFFIX,jules.google,Gemini
+DOMAIN-SUFFIX,jules.google.com,Gemini
+DOMAIN-SUFFIX,labs.google,Gemini
+DOMAIN-SUFFIX,labs.google.com,Gemini
+DOMAIN-SUFFIX,makersuite.google.com,Gemini
+DOMAIN-SUFFIX,notebooklm.google,Gemini
+DOMAIN-SUFFIX,notebooklm.google.com,Gemini
+DOMAIN-SUFFIX,opal.google,Gemini
+DOMAIN-SUFFIX,opal.google.com,Gemini
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,Gemini
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com,Gemini
+DOMAIN-SUFFIX,stitch.withgoogle.com,Gemini

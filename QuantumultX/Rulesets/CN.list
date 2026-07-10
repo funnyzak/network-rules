@@ -1,0 +1,6 @@
+# NAME: CN
+# SOURCE: Surge/Rulesets/CN.list
+
+# DIRECT 策略
+
+PROCESS-NAME,PhDDNS.app,CN

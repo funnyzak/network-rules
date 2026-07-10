@@ -1,0 +1,6 @@
+# NAME: Adult
+# SOURCE: Surge/Rulesets/Adult.list
+
+DOMAIN-SUFFIX,phncdn.com,Adult
+DOMAIN-SUFFIX,pornhub.com,Adult,force-remote-dns
+DOMAIN-SUFFIX,pornhubpremium.com,Adult,force-remote-dns

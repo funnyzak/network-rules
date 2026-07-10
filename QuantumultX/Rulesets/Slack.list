@@ -1,0 +1,9 @@
+# NAME: Slack
+# SOURCE: Surge/Rulesets/Slack.list
+
+USER-AGENT,Slack*,Slack
+
+## 通用部分
+DOMAIN-SUFFIX,slack-edge.com,Slack
+DOMAIN-SUFFIX,slack.com,Slack
+DOMAIN-SUFFIX,slack-msgs.com,Slack

@@ -1,0 +1,5 @@
+# NAME: Crypto
+# SOURCE: Surge/Rulesets/Crypto.list
+
+DOMAIN-SUFFIX,okx.com,Crypto
+DOMAIN-SUFFIX,binance.com,Crypto

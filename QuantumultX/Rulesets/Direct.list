@@ -1,0 +1,37 @@
+# NAME: Direct
+# SOURCE: Surge/Rulesets/Direct.list
+
+# >>> Consolidated Group: Direct <<<
+
+
+# >>> Source: CN.list
+PROCESS-NAME,PhDDNS.app,Direct
+
+# >>> Source: Special.list
+DOMAIN-SUFFIX,spotifycdn.net,Direct
+DOMAIN-SUFFIX,scdn.co,Direct
+DOMAIN-SUFFIX,akamaized.net,Direct
+DOMAIN-SUFFIX,cloudfront.net,Direct
+DOMAIN-SUFFIX,amazonaws.com,Direct
+DOMAIN,download.docker.com,Direct
+DOMAIN-SUFFIX,download.unity3d.com,Direct
+DOMAIN-SUFFIX,vercel.app,Direct
+
+# >>> Source: Teamviewer.list
+PROCESS-NAME,TeamViewer,Direct
+IP-CIDR,139.220.243.27/32,Direct,no-resolve
+IP-CIDR,172.16.102.56/32,Direct,no-resolve
+IP-CIDR,185.188.32.1/28,Direct,no-resolve
+IP-CIDR,221.226.128.146/32,Direct,no-resolve
+
+# >>> Source: SpeedTest.list
+DOMAIN-SUFFIX,fast.com,Direct
+USER-AGENT,SpeedTest*,Direct
+DOMAIN-KEYWORD,speedtest,Direct
+DOMAIN-SUFFIX,speedtest.net,Direct
+DOMAIN-SUFFIX,ooklaserver.net,Direct
+URL-REGEX,speedtest\d.macau.ctm.net:8080,Direct
+DOMAIN-SUFFIX,88-f.net,Direct
+DOMAIN,st.pautina-telecom.ru,Direct
+DOMAIN-SUFFIX,goodnet.su,Direct
+DOMAIN-SUFFIX,a-mo.net,Direct

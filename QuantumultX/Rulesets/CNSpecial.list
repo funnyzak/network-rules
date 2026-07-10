@@ -1,0 +1,10 @@
+# NAME: CNSpecial
+# SOURCE: Surge/Rulesets/CNSpecial.list
+
+# 国内公司提供的海外服务
+
+// 百度海外云服务
+DOMAIN-KEYWORD,dubox,CNSpecial
+
+
+DOMAIN-SUFFIX,bd-film.com,CNSpecial

@@ -1,0 +1,9 @@
+# NAME: Pinterest
+# SOURCE: Surge/Rulesets/Pinterest.list
+
+# PROXY
+
+DOMAIN-SUFFIX,pinimg.com,Pinterest
+DOMAIN-SUFFIX,pinterest.com,Pinterest
+
+USER-AGENT,Pinterest*,Pinterest

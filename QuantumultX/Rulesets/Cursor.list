@@ -1,0 +1,8 @@
+# NAME: Cursor
+# SOURCE: Surge/Rulesets/Cursor.list
+
+# >> Cursor AI
+DOMAIN-SUFFIX,cursor-cdn.com,Cursor
+DOMAIN-SUFFIX,cursor.com,Cursor
+DOMAIN-SUFFIX,cursor.sh,Cursor
+DOMAIN-SUFFIX,cursorapi.com,Cursor

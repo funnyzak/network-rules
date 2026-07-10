@@ -1,0 +1,31 @@
+# NAME: Discord
+# SOURCE: Surge/Rulesets/Discord.list
+
+# NAME: Discord
+DOMAIN-SUFFIX,discordapp.com,Discord
+DOMAIN-SUFFIX,airhorn.solutions,Discord
+DOMAIN-SUFFIX,airhornbot.com,Discord
+DOMAIN-SUFFIX,bigbeans.solutions,Discord
+DOMAIN-SUFFIX,dis.gd,Discord
+DOMAIN-SUFFIX,discord-activities.com,Discord
+DOMAIN-SUFFIX,discord.co,Discord
+DOMAIN-SUFFIX,discord.com,Discord
+DOMAIN-SUFFIX,discord.design,Discord
+DOMAIN-SUFFIX,discord.dev,Discord
+DOMAIN-SUFFIX,discord.gg,Discord
+DOMAIN-SUFFIX,discord.gift,Discord
+DOMAIN-SUFFIX,discord.gifts,Discord
+DOMAIN-SUFFIX,discord.media,Discord
+DOMAIN-SUFFIX,discord.new,Discord
+DOMAIN-SUFFIX,discord.store,Discord
+DOMAIN-SUFFIX,discord.tools,Discord
+DOMAIN-SUFFIX,discordactivities.com,Discord
+DOMAIN-SUFFIX,discordapp.io,Discord
+DOMAIN-SUFFIX,discordapp.net,Discord
+DOMAIN-SUFFIX,discordapp.page.link,Discord
+DOMAIN-SUFFIX,discordcdn.com,Discord
+DOMAIN-SUFFIX,discordmerch.com,Discord
+DOMAIN-SUFFIX,discordpartygames.com,Discord
+DOMAIN-SUFFIX,discordsays.com,Discord
+DOMAIN-SUFFIX,discordstatus.com,Discord
+DOMAIN-SUFFIX,watchanimeattheoffice.com,Discord

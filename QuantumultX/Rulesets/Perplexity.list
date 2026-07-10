@@ -1,0 +1,7 @@
+# NAME: Perplexity
+# SOURCE: Surge/Rulesets/Perplexity.list
+
+# >> Perplexity AI
+DOMAIN-SUFFIX,perplexity.ai,Perplexity
+DOMAIN-SUFFIX,perplexity.com,Perplexity
+DOMAIN-SUFFIX,pplx.ai,Perplexity

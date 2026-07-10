@@ -1,0 +1,5 @@
+# NAME: NameCheap
+# SOURCE: Surge/Rulesets/NameCheap.list
+
+# PROXY 策略
+DOMAIN-SUFFIX,namecheap.com,NameCheap

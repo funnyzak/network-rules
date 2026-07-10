@@ -1,0 +1,45 @@
+# NAME: OpenAI
+# SOURCE: Surge/Rulesets/OpenAI.list
+
+# >> OpenAI / ChatGPT
+# Core
+DOMAIN-SUFFIX,ai.com,OpenAI
+DOMAIN-SUFFIX,chat.com,OpenAI
+DOMAIN-SUFFIX,chatgpt.com,OpenAI
+DOMAIN-SUFFIX,crixet.com,OpenAI
+DOMAIN-SUFFIX,oaistatic.com,OpenAI
+DOMAIN-SUFFIX,oaiusercontent.com,OpenAI
+DOMAIN-SUFFIX,openai.com,OpenAI
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,OpenAI
+DOMAIN-SUFFIX,openaicom.imgix.net,OpenAI
+DOMAIN-SUFFIX,sora.com,OpenAI
+DOMAIN-KEYWORD,openai,OpenAI
+# Network
+IP-CIDR,199.47.142.0/23,OpenAI,no-resolve
+IP-CIDR,24.199.123.28/32,OpenAI,no-resolve
+IP-CIDR,64.23.132.171/32,OpenAI,no-resolve
+IP-CIDR6,2604:f20::/32,OpenAI,no-resolve
+# Third-Party
+DOMAIN,browser-intake-datadoghq.com,OpenAI
+DOMAIN,openai-api.arkoselabs.com,OpenAI
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OpenAI
+DOMAIN,openaicomproductionae4b.blob.core.windows.net,OpenAI
+DOMAIN,production-openaicom-storage.azureedge.net,OpenAI
+DOMAIN,static.cloudflareinsights.com,OpenAI
+DOMAIN,chat.openai.com.cdn.cloudflare.net,OpenAI
+DOMAIN,openaiapi-site.azureedge.net,OpenAI
+DOMAIN-SUFFIX,algolia.net,OpenAI
+DOMAIN-SUFFIX,api.statsig.com,OpenAI
+DOMAIN-SUFFIX,auth0.com,OpenAI
+DOMAIN-SUFFIX,client-api.arkoselabs.com,OpenAI
+DOMAIN-SUFFIX,events.statsigapi.net,OpenAI
+DOMAIN-SUFFIX,featureassets.org,OpenAI
+DOMAIN-SUFFIX,featuregates.org,OpenAI
+DOMAIN-SUFFIX,identrust.com,OpenAI
+DOMAIN-SUFFIX,intercom.io,OpenAI
+DOMAIN-SUFFIX,intercomcdn.com,OpenAI
+DOMAIN-SUFFIX,launchdarkly.com,OpenAI
+DOMAIN-SUFFIX,observeit.net,OpenAI
+DOMAIN-SUFFIX,segment.io,OpenAI
+DOMAIN-SUFFIX,sentry.io,OpenAI
+DOMAIN-SUFFIX,stripe.com,OpenAI

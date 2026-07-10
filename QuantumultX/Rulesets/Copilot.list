@@ -1,0 +1,23 @@
+# NAME: Copilot
+# SOURCE: Surge/Rulesets/Copilot.list
+
+# >> Microsoft Copilot
+DOMAIN,location.microsoft.com,Copilot
+DOMAIN,odc.officeapps.live.com,Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com,Copilot
+DOMAIN-SUFFIX,githubcopilot.com,Copilot
+# Third-Party
+DOMAIN,api.msn.com,Copilot
+DOMAIN,api.statsig.com,Copilot
+DOMAIN,assets.msn.com,Copilot
+DOMAIN,browser-intake-datadoghq.com,Copilot
+DOMAIN,copilot-proxy.githubusercontent.com,Copilot
+DOMAIN,copilot-workspace.githubnext.com,Copilot
+DOMAIN,copilotprodattachments.blob.core.windows.net,Copilot
+DOMAIN,gateway.bingviz.microsoft.net,Copilot
+DOMAIN,gateway.bingviz.microsoftapp.net,Copilot
+DOMAIN,in.appcenter.ms,Copilot
+DOMAIN,self.events.data.microsoft.com,Copilot
+DOMAIN,static.cloudflareinsights.com,Copilot
+DOMAIN,sydney.bing.com,Copilot
+DOMAIN-SUFFIX,edgeservices.bing.com,Copilot

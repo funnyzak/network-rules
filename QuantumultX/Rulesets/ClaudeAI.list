@@ -1,0 +1,37 @@
+# NAME: ClaudeAI
+# SOURCE: Surge/Rulesets/ClaudeAI.list
+
+# >> Anthropic / Claude AI
+# Core
+DOMAIN-SUFFIX,anthropic.com,ClaudeAI
+DOMAIN-SUFFIX,anthropic.com.cn,ClaudeAI
+DOMAIN-SUFFIX,antspace.dev,ClaudeAI
+DOMAIN-SUFFIX,clau.de,ClaudeAI
+DOMAIN-SUFFIX,claude.ai,ClaudeAI
+DOMAIN-SUFFIX,claude.app,ClaudeAI
+DOMAIN-SUFFIX,claude.com,ClaudeAI
+DOMAIN-SUFFIX,claude.new,ClaudeAI
+DOMAIN-SUFFIX,claude.site,ClaudeAI
+DOMAIN-SUFFIX,claudecdn.com,ClaudeAI
+DOMAIN-SUFFIX,claudemcpclient.com,ClaudeAI
+DOMAIN-SUFFIX,claudemcpcontent.com,ClaudeAI
+DOMAIN-SUFFIX,claudepages.dev,ClaudeAI
+DOMAIN-SUFFIX,claudestudio.com,ClaudeAI
+DOMAIN-SUFFIX,claudeusercontent.com,ClaudeAI
+DOMAIN-SUFFIX,modelcontextprotocol.com,ClaudeAI
+DOMAIN-SUFFIX,modelcontextprotocol.io,ClaudeAI
+DOMAIN-SUFFIX,modelcontextprotocol.net,ClaudeAI
+DOMAIN-SUFFIX,modelcontextprotocol.org,ClaudeAI
+# Network
+IP-CIDR,160.79.104.0/21,ClaudeAI,no-resolve
+IP-CIDR6,2607:6bc0::/48,ClaudeAI,no-resolve
+# Third-Party
+DOMAIN,cdn.growthbook.io,ClaudeAI
+DOMAIN,cdn.usefathom.com,ClaudeAI
+DOMAIN,servd-anthropic-website.b-cdn.net,ClaudeAI
+DOMAIN,storage.googleapis.com,ClaudeAI
+DOMAIN-SUFFIX,growthbook.io,ClaudeAI
+DOMAIN-SUFFIX,intercom.io,ClaudeAI
+DOMAIN-SUFFIX,intercomcdn.com,ClaudeAI
+DOMAIN-SUFFIX,datadoghq.com,ClaudeAI
+DOMAIN-SUFFIX,sentry.io,ClaudeAI

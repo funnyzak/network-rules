@@ -1,0 +1,32 @@
+# NAME: GitHub
+# SOURCE: Surge/Rulesets/GitHub.list
+
+DOMAIN-SUFFIX,atom.io,GitHub
+DOMAIN-SUFFIX,dependabot.com,GitHub
+DOMAIN-SUFFIX,ghcr.io,GitHub
+DOMAIN-SUFFIX,git.io,GitHub
+DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net,GitHub
+DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com,GitHub
+DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com,GitHub
+DOMAIN-SUFFIX,github.blog,GitHub
+DOMAIN-SUFFIX,github.com,GitHub
+DOMAIN-SUFFIX,github.community,GitHub
+DOMAIN-SUFFIX,github.dev,GitHub
+DOMAIN-SUFFIX,github.io,GitHub
+DOMAIN-SUFFIX,githubapp.com,GitHub
+DOMAIN-SUFFIX,githubassets.com,GitHub
+DOMAIN-SUFFIX,githubhackathon.com,GitHub
+DOMAIN-SUFFIX,githubpreview.dev,GitHub
+DOMAIN-SUFFIX,githubstatus.com,GitHub
+DOMAIN-SUFFIX,githubuniverse.com,GitHub
+DOMAIN-SUFFIX,githubusercontent.com,GitHub
+DOMAIN-SUFFIX,myoctocat.com,GitHub
+DOMAIN-SUFFIX,npm.community,GitHub
+DOMAIN-SUFFIX,npmjs.com,GitHub
+DOMAIN-SUFFIX,npmjs.org,GitHub
+DOMAIN-SUFFIX,opensource.guide,GitHub
+DOMAIN-SUFFIX,rawgit.com,GitHub
+DOMAIN-SUFFIX,rawgithub.com,GitHub
+DOMAIN-SUFFIX,repo.new,GitHub
+DOMAIN-SUFFIX,thegithubshop.com,GitHub
+DOMAIN-KEYWORD,github,GitHub

@@ -1,0 +1,9 @@
+# NAME: PornHub
+# SOURCE: Surge/Rulesets/PornHub.list
+
+DOMAIN-SUFFIX,myavlive.com,PornHub
+DOMAIN-SUFFIX,missav.ws,PornHub
+
+DOMAIN-SUFFIX,phncdn.com,PornHub
+DOMAIN-SUFFIX,pornhub.com,PornHub
+DOMAIN-SUFFIX,pornhubpremium.com,PornHub

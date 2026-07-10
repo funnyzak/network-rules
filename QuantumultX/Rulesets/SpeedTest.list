@@ -1,0 +1,16 @@
+# NAME: SpeedTest
+# SOURCE: Surge/Rulesets/SpeedTest.list
+
+# > Fast
+DOMAIN-SUFFIX,fast.com,SpeedTest
+
+# > Speedtest
+USER-AGENT,SpeedTest*,SpeedTest
+DOMAIN-KEYWORD,speedtest,SpeedTest
+DOMAIN-SUFFIX,speedtest.net,SpeedTest
+DOMAIN-SUFFIX,ooklaserver.net,SpeedTest
+URL-REGEX,speedtest\d.macau.ctm.net:8080,SpeedTest
+DOMAIN-SUFFIX,88-f.net,SpeedTest
+DOMAIN,st.pautina-telecom.ru,SpeedTest
+DOMAIN-SUFFIX,goodnet.su,SpeedTest
+DOMAIN-SUFFIX,a-mo.net,SpeedTest

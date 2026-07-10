@@ -1,0 +1,17 @@
+# NAME: X
+# SOURCE: Surge/Rulesets/X.list
+
+DOMAIN-SUFFIX,periscope.tv,X
+DOMAIN-SUFFIX,pscp.tv,X
+DOMAIN-SUFFIX,t.co,X
+DOMAIN-SUFFIX,vine.co,X
+DOMAIN-SUFFIX,x.com,X
+DOMAIN-SUFFIX,twimg.com,X
+DOMAIN-SUFFIX,twitter.com,X
+
+# >>> Synced from Clash ruleset >>>
+DOMAIN-SUFFIX,twimg.co,X
+DOMAIN-SUFFIX,twimg.org,X
+DOMAIN-SUFFIX,twitpic.com,X
+DOMAIN-SUFFIX,twitter.jp,X
+DOMAIN-KEYWORD,twitter,X

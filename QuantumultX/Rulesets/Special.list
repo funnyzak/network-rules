@@ -1,0 +1,21 @@
+# NAME: Special
+# SOURCE: Surge/Rulesets/Special.list
+
+// 执行DIRECT操作
+
+// Spotify CDN 不需要代理
+DOMAIN-SUFFIX,spotifycdn.net,Special
+DOMAIN-SUFFIX,scdn.co,Special
+DOMAIN-SUFFIX,akamaized.net,Special
+
+DOMAIN-SUFFIX,cloudfront.net,Special
+DOMAIN-SUFFIX,amazonaws.com,Special
+
+// Docker 下载
+DOMAIN,download.docker.com,Special
+
+
+DOMAIN-SUFFIX,download.unity3d.com,Special
+
+# >>> Synced from Clash ruleset >>>
+DOMAIN-SUFFIX,vercel.app,Special
