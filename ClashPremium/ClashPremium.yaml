@@ -542,7 +542,6 @@ rules:
   - RULE-SET,Cncidr,DIRECT
   - RULE-SET,iCloud,iCloud
 
-  - DOMAIN-SUFFIX,yycc.dev,PROXY
   - DOMAIN-KEYWORD,google,PROXY
   - DOMAIN,ad.com,REJECT
   - SRC-IP-CIDR,192.168.1.201/32,DIRECT,no-resolve

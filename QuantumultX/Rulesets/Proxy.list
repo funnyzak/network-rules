@@ -135,7 +135,6 @@ DOMAIN-SUFFIX,gpt.yycc.me,Proxy
 
 DOMAIN-SUFFIX,vercel.app,Proxy
 DOMAIN-SUFFIX,yahoo.com,Proxy
-DOMAIN-SUFFIX,yycc.dev,Proxy
 DOMAIN-SUFFIX,jitpack.io,Proxy
 
 DOMAIN-SUFFIX,aigcapi.io,Proxy

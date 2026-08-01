@@ -602,7 +602,6 @@ payload:
   - DOMAIN-SUFFIX,nextchat.dev
   - DOMAIN-SUFFIX,f.ffneo.com
   - DOMAIN-SUFFIX,gpt.yycc.me
-  - DOMAIN-SUFFIX,yycc.dev
   - DOMAIN-SUFFIX,jitpack.io
   - DOMAIN-SUFFIX,aigcapi.io
   - DOMAIN-SUFFIX,reawote.com
