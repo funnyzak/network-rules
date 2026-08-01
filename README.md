@@ -4,8 +4,8 @@ Rules and Scripts For Surge 、 QuantumultX 、Clash、Loon、Stash.
 
 ## Mirror
 
-- [https://rules.vercel.app](https://rules.vercel.app)
 - [https://fastly.jsdelivr.net](https://fastly.jsdelivr.net/gh/funnyzak/network-rules@main/)
+- [https://raw.githubusercontent.com](https://raw.githubusercontent.com/funnyzak/network-rules/main/)
 
 ---
 
