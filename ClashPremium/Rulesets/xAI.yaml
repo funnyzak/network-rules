@@ -2,4 +2,3 @@ payload:
   # >> xAI / Grok
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,grok.com
-  - DOMAIN-SUFFIX,groq.com

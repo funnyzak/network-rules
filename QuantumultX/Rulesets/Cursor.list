@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,cursor-cdn.com,Cursor
 DOMAIN-SUFFIX,cursor.com,Cursor
 DOMAIN-SUFFIX,cursor.sh,Cursor
 DOMAIN-SUFFIX,cursorapi.com,Cursor
+DOMAIN-SUFFIX,cursorvm.com,Cursor
+DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com,Cursor

@@ -2,7 +2,19 @@
 DOMAIN,location.microsoft.com
 DOMAIN,odc.officeapps.live.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,cloud.microsoft
+DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,gateway.prod.island.powerapps.com
+# GitHub Copilot
+DOMAIN,github.com
+DOMAIN,github.githubassets.com
+DOMAIN,avatars.githubusercontent.com
+DOMAIN,api.github.com
+DOMAIN,collector.github.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,default.exp-tas.com
+DOMAIN,origin-tracker.githubusercontent.com
 # Third-Party
 DOMAIN,api.msn.com
 DOMAIN,api.statsig.com

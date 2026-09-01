@@ -5,7 +5,19 @@
 DOMAIN,location.microsoft.com,Copilot
 DOMAIN,odc.officeapps.live.com,Copilot
 DOMAIN-SUFFIX,copilot.microsoft.com,Copilot
+DOMAIN-SUFFIX,cloud.microsoft,Copilot
+DOMAIN-SUFFIX,office.com,Copilot
 DOMAIN-SUFFIX,githubcopilot.com,Copilot
+DOMAIN-SUFFIX,gateway.prod.island.powerapps.com,Copilot
+# GitHub Copilot
+DOMAIN,github.com,Copilot
+DOMAIN,github.githubassets.com,Copilot
+DOMAIN,avatars.githubusercontent.com,Copilot
+DOMAIN,api.github.com,Copilot
+DOMAIN,collector.github.com,Copilot
+DOMAIN,copilot-telemetry.githubusercontent.com,Copilot
+DOMAIN,default.exp-tas.com,Copilot
+DOMAIN,origin-tracker.githubusercontent.com,Copilot
 # Third-Party
 DOMAIN,api.msn.com,Copilot
 DOMAIN,api.statsig.com,Copilot
